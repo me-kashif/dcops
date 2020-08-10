@@ -1,4 +1,4 @@
-# DC
+# DcOps
 This repository focuses Cisco ACI platform and its agenda is to create comprehensive application which provides ACI telemetory services, configuration implementations and daily DC operation activities.
 
 ## Requirments
