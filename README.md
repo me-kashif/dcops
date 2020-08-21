@@ -12,7 +12,7 @@ mentioned in requirements.txt added in the folder
 ## Login information
 Enter username, password andapic FQDN/ip address in Credentials.py file.
 
-## Details EP mac address information
+## Detailed EP mac address information
 
 ### get_ep_details2.py
 
