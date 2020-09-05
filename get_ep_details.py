@@ -2,21 +2,27 @@
 
 """
 Author : Kashif Khan
-This script helps to search Endpoint mac-address in following criteria.
-1) Search single endpoint mac-address in the fabric. e.g (AA:BB:CC:DD:EE:FF)
-2) List all endpoint mac-addresses from the fabric if specific mac-address will not be entered.
+This script helps to search Endpoint in following criteria.
+1: All results
+2: Filter by Node ID
+3: Filter by EPG
+4: Filter by VLAN ID
+5: Filter by Interface Name
+6: Filter by Tenant Name
+7: Filter by MAC Address
 
 """
-
+# Imports block
 from connectivity import get_aci_token
 from credentials import credentials
 import json
 import requests
 from pprint import pprint
 from prettytable import PrettyTable 
+import csv
 
 
-def get_ep_details(aci_cookie, apic_ip,mac_addr=None):
+def get_ep_details(aci_cookie, apic_ip):
     """ 
     Fetches EP details using API call
 
@@ -31,10 +37,7 @@ def get_ep_details(aci_cookie, apic_ip,mac_addr=None):
 
     """
 
-    if mac_addr:
-        url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm&query-target-filter=wcard(fvCEp.mac,"{mac_addr}")'
-    else:
-        url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm'
+    url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm'
 
     headers = {
         'cache-control': "no-cache"
@@ -45,14 +48,8 @@ def get_ep_details(aci_cookie, apic_ip,mac_addr=None):
 
     return get_response
 
+def get_processed_data(get_ep_details_result):
 
-if __name__ == '__main__':
-
-    mac_addr = input("Enter full or part of mac address in format AA:BB:CC:DD:EE:FF or leave blank to show all results. : ")
-    aci_cookie = get_aci_token(
-        credentials["username"], credentials["password"], credentials["apic_ip"])
-    get_ep_details_result = get_ep_details(aci_cookie, credentials["apic_ip"],mac_addr.upper())
-    
     data = []
     fields = ['mac', 'ip','encap','dn','path']
 
@@ -72,42 +69,157 @@ if __name__ == '__main__':
                 
         data.append(line_dict)
 
-table = PrettyTable()
-table.field_names = ['MAC Address','VLAN','Tenant','AP','EPG','Switch','Interface']
-
-table.align['Interface'] = 'l'
-table.align['MAC Address'] = 'l'
-table.align['VLAN'] = 'l'
-table.align['Tenant'] = 'l'
-table.align['AP'] = 'l'
-table.align['EPG'] = 'l'
-table.align['Switch'] = 'l'
-
-count = 0           #   To count number of interfaces where mac-address learnd  
-
-for row in data:
-    count += 1
-
-    dn_splitted_list = row['dn'].split("/")
-    tdn_splitted_list = row['path'].split("/")[2:]
     
-    switch_splitted = tdn_splitted_list[0].split("-")[1:]
-    tdn_splitted_list = tdn_splitted_list[1:]
-    tdn_splitted_list = "/".join(tdn_splitted_list)
-    interface_splitted = tdn_splitted_list.split("-")[1:]    
+    processed_data = list()
 
-    mac = row['mac']
-    vlan = row['encap'].lstrip("vlan-")
-    tenant = dn_splitted_list[1].lstrip("tn-")
-    ap = dn_splitted_list[2].lstrip("ap-")
-    epg = dn_splitted_list[3].lstrip("epg-")
-    switch = "-".join(switch_splitted)
-    interface = "-".join(interface_splitted).strip("[]")
+    for row in data:
+        
+        dn_splitted_list = row['dn'].split("/")
+        tdn_splitted_list = row['path'].split("/")[2:]
+        
+        switch_splitted = tdn_splitted_list[0].split("-")[1:]
+        tdn_splitted_list = tdn_splitted_list[1:]
+        tdn_splitted_list = "/".join(tdn_splitted_list)
+        interface_splitted = tdn_splitted_list.split("-")[1:]    
+
+        mac = row['mac']
+        vlan = row['encap'].lstrip("vlan-")
+        tenant = dn_splitted_list[1].lstrip("tn-")
+        ap = dn_splitted_list[2].lstrip("ap-")
+        epg = dn_splitted_list[3].lstrip("epg-")
+        switch = "-".join(switch_splitted)
+        interface = "-".join(interface_splitted).strip("[]")
+        temp_dict = {'mac_address':mac,'vlan':vlan,'tenant':tenant,'application_profile':ap,'epg':epg,'switch':switch,'interface':interface}
+
+        processed_data.append(temp_dict)
+    return processed_data
+
+def print_details_onscreen(processed_data):
+
+    table = PrettyTable()
+    table.field_names = ['MAC Address','VLAN','Tenant','AP','EPG','Switch','Interface']
+
+    table.align['Interface'] = 'l'
+    table.align['MAC Address'] = 'l'
+    table.align['VLAN'] = 'l'
+    table.align['Tenant'] = 'l'
+    table.align['AP'] = 'l'
+    table.align['EPG'] = 'l'
+    table.align['Switch'] = 'l'
+
+    count = 0
+    for each_row in processed_data:
+        
+        count += 1
+        only_values = [values for values in each_row.values()]
+        table.add_row(only_values)  # adds each mac address detail in table.
+        
+
+    print(table)
+    print(f"Total number of interfaces where Endpoint mac-address learnd are {count}")
+
+def get_filtered_data_func(filter_value,filter_type,get_data):
+
+    get_filtered_data = [filtered_data
+                        for filtered_data in get_data
+                        if filter_value in filtered_data[filter_type]]
+    print_details_onscreen(get_filtered_data)
+
+def save_to_csv(list_of_all_data):
     
-    table.add_row([mac,vlan,tenant,ap,epg,switch,interface])  # adds each mac address detail in table.
+    keys = list_of_all_data[0].keys()
+    
+    with open('ep_data.csv', 'w', newline='')  as output_file:
+    
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(list_of_all_data)
 
-       
-print(table)
-print(f"Total number of interfaces where Endpoint mac-address learnd are {count}")
+    print('\n' + '-'*30)    
+    print("File has been saved!!!")
+    print('-'*30 + '\n')
+
+def main():
+    
+    aci_cookie = get_aci_token(
+        credentials["username"], credentials["password"], credentials["apic_ip"])
+    get_ep_details_result = get_ep_details(aci_cookie, credentials["apic_ip"])
+    
+    get_data = get_processed_data(get_ep_details_result)
+        
+    main_operations_list = ['Exit',
+                            'Print Endpoint details on screen',
+                            'Save data to CSV']    
+
+    while True:
+        
+        for index,main_items in enumerate(main_operations_list,0):
+            print(f"{index}: {main_items}")
+
+        main_operation = input('\nChoose number to select type of operation : ')
+        if main_operation == '0':
+            break
+                
+        elif main_operation == '1':
+            sub_operations1_list = ['Exit',
+                                    'All results',
+                                    'Filter by Node ID',
+                                    'Filter by EPG',
+                                    'Filter by VLAN ID',
+                                    'Filter by Interface Name',
+                                    'Filter by Tenant Name',
+                                    'Filter by MAC Address',
+                                    ]    
+
+            while True:
+                for index,sub_menu_items in enumerate(sub_operations1_list,0):
+                    print(f"{index}: {sub_menu_items}")
+
+                subops1 = input('\nChoose number to select type of operation : ')
+                if subops1 == '0':
+                    break
+
+                elif subops1 == '1':
+                    print_details_onscreen(get_data) 
+
+                elif subops1 =='2':
+                    filter_value = input("Enter Node ID: ")
+                    filter_type='switch'
+                    if len(filter_value) != 3:
+                        print('Wrong Node ID! try again')
+                        continue
+                    get_filtered_data_func(filter_value,filter_type,get_data)
+
+                elif subops1 =='3':
+                    filter_value = input("Enter EPG: ")
+                    filter_type='epg'
+                    get_filtered_data_func(filter_value,filter_type,get_data)                  
+            
+                elif subops1 =='4':
+                    filter_value = input("Enter VLAN ID: ")
+                    filter_type='vlan'
+                    get_filtered_data_func(filter_value,filter_type,get_data)
+                    
+                elif subops1 =='5':
+                    filter_value = input("Enter Interface ID: ")
+                    filter_type='interface'
+                    get_filtered_data_func(filter_value,filter_type,get_data)
+                                
+                elif subops1 =='6':
+                    filter_value = input("Enter Tenant Name: ")
+                    filter_type='tenant'
+                    get_filtered_data_func(filter_value,filter_type,get_data)
+                    
+                elif subops1 =='7':
+                    filter_value = input("Enter MAC Address: ").upper()
+                    filter_type='mac_address'
+                    get_filtered_data_func(filter_value,filter_type,get_data)
+
+        elif main_operation == '2':
+            save_to_csv(get_data)
+                    
+if __name__ == '__main__':
+    main()
+        
 
 
