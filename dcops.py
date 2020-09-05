@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.8
 
-from get_ep_details4 import main as ep
-from get_fault_details_v2 import main as fd
+from get_ep_details import main as ep
+from get_fault_details import main as fd
 
 def main():
     
