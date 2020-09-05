@@ -19,9 +19,10 @@ import json
 import requests
 from pprint import pprint
 from prettytable import PrettyTable 
+import csv
 
 
-def get_ep_details(aci_cookie, apic_ip,mac_addr=None):
+def get_ep_details(aci_cookie, apic_ip):
     """ 
     Fetches EP details using API call
 
@@ -36,10 +37,7 @@ def get_ep_details(aci_cookie, apic_ip,mac_addr=None):
 
     """
 
-    if mac_addr:
-        url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm&query-target-filter=wcard(fvCEp.mac,"{mac_addr}")'
-    else:
-        url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm'
+    url = f'{apic_ip}/api/node/class/fvCEp.json?rsp-subtree=full&rsp-subtree-class=fvCEp,fvRsCEpToPathEp,fvIp,fvRsHyper,fvRsToNic,fvRsToVm'
 
     headers = {
         'cache-control': "no-cache"
@@ -127,6 +125,20 @@ def get_filtered_data_func(filter_value,filter_type,get_data):
                         if filter_value in filtered_data[filter_type]]
     print_details_onscreen(get_filtered_data)
 
+def save_to_csv(list_of_all_data):
+    
+    keys = list_of_all_data[0].keys()
+    
+    with open('ep_data.csv', 'w', newline='')  as output_file:
+    
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(list_of_all_data)
+
+    print('\n' + '-'*30)    
+    print("File has been saved!!!")
+    print('-'*30 + '\n')
+
 def main():
     
     aci_cookie = get_aci_token(
@@ -202,6 +214,9 @@ def main():
                     filter_value = input("Enter MAC Address: ").upper()
                     filter_type='mac_address'
                     get_filtered_data_func(filter_value,filter_type,get_data)
+
+        elif main_operation == '2':
+            save_to_csv(get_data)
                     
 if __name__ == '__main__':
     main()
