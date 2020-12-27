@@ -1,5 +1,5 @@
 credentials = {
     "username": "admin",
-    "password": "sand",
-    "apic_ip": ""
+    "password": "ciscopsdt",
+    "apic_ip": "https://sandboxapicdc.cisco.com/"
 }
