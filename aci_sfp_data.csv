@@ -1,0 +1,3443 @@
+type,sfpname,partnumber,serialnumber,state,switch,interface
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DBZZ     ,inserted,101,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCF5     ,inserted,101,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFF     ,inserted,101,eth1/5
+,,,,removed,101,eth1/6
+,,,,removed,101,eth1/44
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D6FE     ,inserted,101,eth1/45
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRL5     ,inserted,101,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKR     ,inserted,101,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392Z5     ,inserted,101,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954S     ,inserted,101,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339577     ,inserted,101,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339303     ,inserted,101,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLE     ,inserted,101,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKL     ,inserted,101,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRJ2     ,inserted,101,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRL2     ,inserted,101,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFA     ,inserted,101,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCF8     ,inserted,101,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUS     ,inserted,101,eth1/46
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKU     ,inserted,101,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRL6     ,inserted,101,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233931K     ,inserted,101,eth1/43
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKD     ,inserted,101,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKB     ,inserted,101,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRM9     ,inserted,101,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKX     ,inserted,101,eth1/9
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GT     ,inserted,101,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A4     ,inserted,101,eth1/50
+,,,,removed,101,eth1/51
+,,,,removed,101,eth1/52
+,,,,removed,101,eth1/53
+,,,,removed,101,eth1/54
+,,,,removed,101,eth1/21
+,,,,removed,101,eth1/22
+,,,,removed,101,eth1/23
+,,,,removed,101,eth1/24
+,,,,removed,101,eth1/25
+,,,,removed,101,eth1/26
+,,,,removed,101,eth1/27
+,,,,removed,101,eth1/28
+,,,,removed,101,eth1/29
+,,,,removed,101,eth1/30
+,,,,removed,101,eth1/31
+,,,,removed,101,eth1/32
+,,,,removed,101,eth1/33
+,,,,removed,101,eth1/34
+,,,,removed,101,eth1/35
+,,,,removed,101,eth1/36
+,,,,removed,101,eth1/37
+,,,,removed,101,eth1/38
+,,,,removed,101,eth1/39
+,,,,removed,101,eth1/40
+,,,,removed,101,eth1/41
+,,,,removed,101,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLJ     ,inserted,102,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLF     ,inserted,102,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLN     ,inserted,102,eth1/5
+,,,,removed,102,eth1/6
+,,,,removed,102,eth1/44
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKY     ,inserted,102,eth1/45
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLD     ,inserted,102,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUC     ,inserted,102,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394V8     ,inserted,102,eth1/43
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRKE     ,inserted,102,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRL3     ,inserted,102,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRM8     ,inserted,102,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339555     ,inserted,102,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339550     ,inserted,102,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954M     ,inserted,102,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955S     ,inserted,102,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DKMY     ,inserted,102,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLM     ,inserted,102,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DKMG     ,inserted,102,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DKMH     ,inserted,102,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLL     ,inserted,102,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRM0     ,inserted,102,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLTX     ,inserted,102,eth1/46
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DDHE     ,inserted,102,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DKMW     ,inserted,102,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLY     ,inserted,102,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TP     ,inserted,102,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U1YN     ,inserted,102,eth1/50
+,,,,removed,102,eth1/51
+,,,,removed,102,eth1/52
+,,,,removed,102,eth1/53
+,,,,removed,102,eth1/54
+,,,,removed,102,eth1/21
+,,,,removed,102,eth1/22
+,,,,removed,102,eth1/23
+,,,,removed,102,eth1/24
+,,,,removed,102,eth1/25
+,,,,removed,102,eth1/26
+,,,,removed,102,eth1/27
+,,,,removed,102,eth1/28
+,,,,removed,102,eth1/29
+,,,,removed,102,eth1/30
+,,,,removed,102,eth1/31
+,,,,removed,102,eth1/32
+,,,,removed,102,eth1/33
+,,,,removed,102,eth1/34
+,,,,removed,102,eth1/35
+,,,,removed,102,eth1/36
+,,,,removed,102,eth1/37
+,,,,removed,102,eth1/38
+,,,,removed,102,eth1/39
+,,,,removed,102,eth1/40
+,,,,removed,102,eth1/41
+,,,,removed,102,eth1/42
+,,,,unknown,103,eth1/29
+,,,,unknown,103,eth1/26
+,,,,unknown,103,eth1/10
+,,,,unknown,103,eth1/34
+,,,,unknown,103,eth1/11
+,,,,unknown,103,eth1/20
+,,,,unknown,103,eth1/19
+,,,,unknown,103,eth1/42
+,,,,unknown,103,eth1/36
+,,,,unknown,103,eth1/46
+,,,,unknown,103,eth1/44
+,,,,unknown,103,eth1/9
+,,,,unknown,103,eth1/22
+,,,,unknown,103,eth1/45
+,,,,unknown,103,eth1/38
+,,,,unknown,103,eth1/40
+,,,,unknown,103,eth1/43
+,,,,unknown,103,eth1/6
+,,,,unknown,103,eth1/25
+,,,,unknown,103,eth1/1
+,,,,unknown,103,eth1/4
+,,,,unknown,103,eth1/13
+,,,,unknown,103,eth1/33
+,,,,unknown,103,eth1/35
+,,,,unknown,103,eth1/32
+,,,,unknown,103,eth1/31
+,,,,unknown,103,eth1/8
+,,,,unknown,103,eth1/24
+,,,,unknown,103,eth1/47
+,,,,unknown,103,eth1/48
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM1925U3G1     ,inserted,103,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TD     ,inserted,103,eth1/50
+,,,,removed,103,eth1/51
+,,,,removed,103,eth1/52
+,,,,removed,103,eth1/53
+,,,,removed,103,eth1/54
+,,,,unknown,103,eth1/21
+,,,,unknown,103,eth1/39
+,,,,unknown,103,eth1/41
+,,,,unknown,103,eth1/28
+,,,,unknown,103,eth1/27
+,,,,unknown,103,eth1/23
+,,,,unknown,103,eth1/37
+,,,,unknown,103,eth1/5
+,,,,unknown,103,eth1/2
+,,,,unknown,103,eth1/3
+,,,,unknown,103,eth1/7
+,,,,unknown,103,eth1/18
+,,,,unknown,103,eth1/17
+,,,,unknown,103,eth1/16
+,,,,unknown,103,eth1/15
+,,,,unknown,103,eth1/14
+,,,,unknown,103,eth1/12
+,,,,unknown,103,eth1/30
+,,,,unknown,104,eth1/20
+,,,,unknown,104,eth1/21
+,,,,unknown,104,eth1/22
+,,,,unknown,104,eth1/23
+,,,,unknown,104,eth1/25
+,,,,unknown,104,eth1/26
+,,,,unknown,104,eth1/27
+,,,,unknown,104,eth1/39
+,,,,unknown,104,eth1/43
+,,,,unknown,104,eth1/42
+,,,,unknown,104,eth1/11
+,,,,unknown,104,eth1/40
+,,,,unknown,104,eth1/41
+,,,,unknown,104,eth1/45
+,,,,unknown,104,eth1/34
+,,,,unknown,104,eth1/4
+,,,,unknown,104,eth1/5
+,,,,unknown,104,eth1/7
+,,,,unknown,104,eth1/15
+,,,,unknown,104,eth1/9
+,,,,unknown,104,eth1/36
+,,,,unknown,104,eth1/35
+,,,,unknown,104,eth1/44
+,,,,unknown,104,eth1/18
+,,,,unknown,104,eth1/19
+,,,,unknown,104,eth1/29
+,,,,unknown,104,eth1/37
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2121U0V0     ,inserted,104,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM1925U3FZ     ,inserted,104,eth1/50
+,,,,removed,104,eth1/51
+,,,,removed,104,eth1/52
+,,,,removed,104,eth1/53
+,,,,removed,104,eth1/54
+,,,,unknown,104,eth1/1
+,,,,unknown,104,eth1/2
+,,,,unknown,104,eth1/32
+,,,,unknown,104,eth1/14
+,,,,unknown,104,eth1/12
+,,,,unknown,104,eth1/38
+,,,,unknown,104,eth1/3
+,,,,unknown,104,eth1/6
+,,,,unknown,104,eth1/10
+,,,,unknown,104,eth1/8
+,,,,unknown,104,eth1/31
+,,,,unknown,104,eth1/30
+,,,,unknown,104,eth1/46
+,,,,unknown,104,eth1/47
+,,,,unknown,104,eth1/48
+,,,,unknown,104,eth1/28
+,,,,unknown,104,eth1/24
+,,,,unknown,104,eth1/13
+,,,,unknown,104,eth1/33
+,,,,unknown,104,eth1/16
+,,,,unknown,104,eth1/17
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410GMV     ,inserted,109,eth1/5
+,,,,removed,109,eth1/7
+,,,,removed,109,eth1/8
+,,,,removed,109,eth1/9
+,,,,removed,109,eth1/10
+,,,,removed,109,eth1/43
+,,,,removed,109,eth1/44
+,,,,removed,109,eth1/45
+,,,,removed,109,eth1/46
+,,,,removed,109,eth1/47
+,,,,removed,109,eth1/48
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410GEC     ,inserted,109,eth1/6
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800BB     ,inserted,109,eth1/2
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800F2     ,inserted,109,eth1/1
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800B8     ,inserted,109,eth1/4
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800B7     ,inserted,109,eth1/3
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00F     ,inserted,109,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2121U0UX     ,inserted,109,eth1/50
+,,,,removed,109,eth1/51
+,,,,removed,109,eth1/52
+,,,,removed,109,eth1/53
+,,,,removed,109,eth1/54
+,,,,removed,109,eth1/11
+,,,,removed,109,eth1/12
+,,,,removed,109,eth1/13
+,,,,removed,109,eth1/14
+,,,,removed,109,eth1/15
+,,,,removed,109,eth1/16
+,,,,removed,109,eth1/17
+,,,,removed,109,eth1/18
+,,,,removed,109,eth1/19
+,,,,removed,109,eth1/20
+,,,,removed,109,eth1/21
+,,,,removed,109,eth1/22
+,,,,removed,109,eth1/23
+,,,,removed,109,eth1/24
+,,,,removed,109,eth1/25
+,,,,removed,109,eth1/26
+,,,,removed,109,eth1/27
+,,,,removed,109,eth1/28
+,,,,removed,109,eth1/29
+,,,,removed,109,eth1/30
+,,,,removed,109,eth1/31
+,,,,removed,109,eth1/32
+,,,,removed,109,eth1/33
+,,,,removed,109,eth1/34
+,,,,removed,109,eth1/35
+,,,,removed,109,eth1/36
+,,,,removed,109,eth1/37
+,,,,removed,109,eth1/38
+,,,,removed,109,eth1/39
+,,,,removed,109,eth1/40
+,,,,removed,109,eth1/41
+,,,,removed,109,eth1/42
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410GMH     ,inserted,110,eth1/5
+,,,,removed,110,eth1/7
+,,,,removed,110,eth1/8
+,,,,removed,110,eth1/9
+,,,,removed,110,eth1/10
+,,,,removed,110,eth1/43
+,,,,removed,110,eth1/44
+,,,,removed,110,eth1/45
+,,,,removed,110,eth1/46
+,,,,removed,110,eth1/47
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410GMW     ,inserted,110,eth1/48
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410GBY     ,inserted,110,eth1/6
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT222800WN     ,inserted,110,eth1/1
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800B9     ,inserted,110,eth1/4
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800BA     ,inserted,110,eth1/3
+10Gbase-ER,CISCO-OCLARO    ,TRS7050EN-S103  ,ONT223800GY     ,inserted,110,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A9     ,inserted,110,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TL     ,inserted,110,eth1/50
+,,,,removed,110,eth1/51
+,,,,removed,110,eth1/52
+,,,,removed,110,eth1/53
+,,,,removed,110,eth1/54
+,,,,removed,110,eth1/11
+,,,,removed,110,eth1/12
+,,,,removed,110,eth1/13
+,,,,removed,110,eth1/14
+,,,,removed,110,eth1/15
+,,,,removed,110,eth1/16
+,,,,removed,110,eth1/17
+,,,,removed,110,eth1/18
+,,,,removed,110,eth1/19
+,,,,removed,110,eth1/20
+,,,,removed,110,eth1/21
+,,,,removed,110,eth1/22
+,,,,removed,110,eth1/23
+,,,,removed,110,eth1/24
+,,,,removed,110,eth1/25
+,,,,removed,110,eth1/26
+,,,,removed,110,eth1/27
+,,,,removed,110,eth1/28
+,,,,removed,110,eth1/29
+,,,,removed,110,eth1/30
+,,,,removed,110,eth1/31
+,,,,removed,110,eth1/32
+,,,,removed,110,eth1/33
+,,,,removed,110,eth1/34
+,,,,removed,110,eth1/35
+,,,,removed,110,eth1/36
+,,,,removed,110,eth1/37
+,,,,removed,110,eth1/38
+,,,,removed,110,eth1/39
+,,,,removed,110,eth1/40
+,,,,removed,110,eth1/41
+,,,,removed,110,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955Z     ,inserted,105,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955K     ,inserted,105,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954X     ,inserted,105,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956T     ,inserted,105,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZX     ,inserted,105,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZU     ,inserted,105,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233953V     ,inserted,105,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZS     ,inserted,105,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339302     ,inserted,105,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339569     ,inserted,105,eth1/10
+,,,,removed,105,eth1/43
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1D6     ,inserted,105,eth1/44
+,,,,removed,105,eth1/45
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1DC     ,inserted,105,eth1/46
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1D9     ,inserted,105,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339558     ,inserted,105,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956R     ,inserted,105,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955F     ,inserted,105,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955P     ,inserted,105,eth1/29
+,,,,removed,105,eth1/49
+,,,,removed,105,eth1/50
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2303N1UA     ,inserted,105,eth1/51
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EK     ,inserted,105,eth1/52
+,,,,removed,105,eth1/53
+,,,,removed,105,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956A     ,inserted,105,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956S     ,inserted,105,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZR     ,inserted,105,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955N     ,inserted,105,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZY     ,inserted,105,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZN     ,inserted,105,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZW     ,inserted,105,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339543     ,inserted,105,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392XP     ,inserted,105,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954J     ,inserted,105,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956Z     ,inserted,105,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956E     ,inserted,105,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954T     ,inserted,105,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZD     ,inserted,105,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956X     ,inserted,105,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZM     ,inserted,105,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339301     ,inserted,105,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956B     ,inserted,105,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392X7     ,inserted,105,eth1/32
+,,,,removed,105,eth1/33
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1CW     ,inserted,105,eth1/34
+,,,,removed,105,eth1/35
+,,,,removed,105,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233953X     ,inserted,105,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955C     ,inserted,105,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956L     ,inserted,105,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954H     ,inserted,105,eth1/40
+,,,,removed,105,eth1/41
+,,,,removed,105,eth1/42
+,,,,removed,111,eth1/13
+,,,,removed,111,eth1/53
+,,,,removed,111,eth1/19
+,,,,removed,111,eth1/1
+,,,,removed,111,eth1/2
+,,,,removed,111,eth1/38
+,,,,removed,111,eth1/34
+,,,,removed,111,eth1/11
+,,,,removed,111,eth1/44
+,,,,removed,111,eth1/35
+,,,,removed,111,eth1/48
+,,,,removed,111,eth1/36
+,,,,removed,111,eth1/37
+,,,,removed,111,eth1/12
+,,,,removed,111,eth1/8
+,,,,removed,111,eth1/42
+,,,,removed,111,eth1/29
+,,,,removed,111,eth1/10
+,,,,removed,111,eth1/14
+,,,,removed,111,eth1/7
+,,,,removed,111,eth1/43
+,,,,removed,111,eth1/21
+,,,,removed,111,eth1/6
+,,,,removed,111,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLZ     ,inserted,111,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D6FC     ,inserted,111,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A8     ,inserted,111,eth1/49
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303UD     ,inserted,111,eth1/50
+,,,,removed,111,eth1/54
+,,,,removed,111,eth1/26
+,,,,removed,111,eth1/25
+,,,,removed,111,eth1/17
+,,,,removed,111,eth1/40
+,,,,removed,111,eth1/31
+,,,,removed,111,eth1/32
+,,,,removed,111,eth1/9
+,,,,removed,111,eth1/20
+,,,,removed,111,eth1/28
+,,,,removed,111,eth1/5
+,,,,removed,111,eth1/15
+,,,,removed,111,eth1/30
+,,,,removed,111,eth1/33
+,,,,removed,111,eth1/47
+,,,,removed,111,eth1/23
+,,,,removed,111,eth1/18
+,,,,removed,111,eth1/41
+,,,,removed,111,eth1/51
+,,,,removed,111,eth1/46
+,,,,removed,111,eth1/24
+,,,,removed,111,eth1/52
+,,,,removed,111,eth1/45
+,,,,removed,111,eth1/27
+,,,,removed,111,eth1/22
+,,,,removed,111,eth1/39
+,,,,removed,112,eth1/54
+,,,,removed,112,eth1/5
+,,,,removed,112,eth1/51
+,,,,removed,112,eth1/52
+,,,,removed,112,eth1/7
+,,,,removed,112,eth1/21
+,,,,removed,112,eth1/35
+,,,,removed,112,eth1/8
+,,,,removed,112,eth1/22
+,,,,removed,112,eth1/36
+,,,,removed,112,eth1/9
+,,,,removed,112,eth1/23
+,,,,removed,112,eth1/37
+,,,,removed,112,eth1/10
+,,,,removed,112,eth1/24
+,,,,removed,112,eth1/38
+,,,,removed,112,eth1/11
+,,,,removed,112,eth1/25
+,,,,removed,112,eth1/39
+,,,,removed,112,eth1/12
+,,,,removed,112,eth1/26
+,,,,removed,112,eth1/40
+,,,,removed,112,eth1/13
+,,,,removed,112,eth1/27
+,,,,removed,112,eth1/41
+,,,,removed,112,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLA     ,inserted,112,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D6DF     ,inserted,112,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U39X     ,inserted,112,eth1/49
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303N7     ,inserted,112,eth1/50
+,,,,removed,112,eth1/53
+,,,,removed,112,eth1/1
+,,,,removed,112,eth1/2
+,,,,removed,112,eth1/6
+,,,,removed,112,eth1/28
+,,,,removed,112,eth1/42
+,,,,removed,112,eth1/15
+,,,,removed,112,eth1/29
+,,,,removed,112,eth1/43
+,,,,removed,112,eth1/16
+,,,,removed,112,eth1/30
+,,,,removed,112,eth1/44
+,,,,removed,112,eth1/17
+,,,,removed,112,eth1/31
+,,,,removed,112,eth1/45
+,,,,removed,112,eth1/18
+,,,,removed,112,eth1/32
+,,,,removed,112,eth1/46
+,,,,removed,112,eth1/19
+,,,,removed,112,eth1/33
+,,,,removed,112,eth1/47
+,,,,removed,112,eth1/20
+,,,,removed,112,eth1/34
+,,,,removed,112,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223396HZ     ,inserted,107,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930S     ,inserted,107,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339326     ,inserted,107,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394W0     ,inserted,107,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UK     ,inserted,107,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394K0     ,inserted,107,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394KH     ,inserted,107,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339321     ,inserted,107,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223396ST     ,inserted,107,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930K     ,inserted,107,eth1/10
+,,,,removed,107,eth1/43
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3S2     ,inserted,107,eth1/44
+,,,,removed,107,eth1/45
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3R6     ,inserted,107,eth1/46
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3RY     ,inserted,107,eth1/47
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3S5     ,inserted,107,eth1/48
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1PR     ,inserted,107,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0EL     ,inserted,107,eth1/50
+,,,,removed,107,eth1/51
+,,,,removed,107,eth1/52
+,,,,removed,107,eth1/53
+,,,,removed,107,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UZ     ,inserted,107,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UY     ,inserted,107,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394TY     ,inserted,107,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339328     ,inserted,107,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339325     ,inserted,107,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930B     ,inserted,107,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339324     ,inserted,107,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394VS     ,inserted,107,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339327     ,inserted,107,eth1/19
+,,,,removed,107,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UV     ,inserted,107,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UD     ,inserted,107,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394V6     ,inserted,107,eth1/23
+,,,,removed,107,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UA     ,inserted,107,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930H     ,inserted,107,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UW     ,inserted,107,eth1/27
+,,,,removed,107,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223396SZ     ,inserted,107,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930A     ,inserted,107,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930P     ,inserted,107,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233931R     ,inserted,107,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233931P     ,inserted,107,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223396T7     ,inserted,107,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339315     ,inserted,107,eth1/35
+,,,,removed,107,eth1/36
+,,,,removed,107,eth1/37
+,,,,removed,107,eth1/38
+,,,,removed,107,eth1/39
+,,,,removed,107,eth1/40
+,,,,removed,107,eth1/41
+,,,,removed,107,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339300     ,inserted,106,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZP     ,inserted,106,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392YW     ,inserted,106,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954U     ,inserted,106,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZZ     ,inserted,106,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339560     ,inserted,106,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955U     ,inserted,106,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339562     ,inserted,106,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339561     ,inserted,106,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339565     ,inserted,106,eth1/10
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1HP     ,inserted,106,eth1/44
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1HC     ,inserted,106,eth1/45
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1GZ     ,inserted,106,eth1/46
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1HA     ,inserted,106,eth1/47
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1DE     ,inserted,106,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339542     ,inserted,106,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339566     ,inserted,106,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392Z4     ,inserted,106,eth1/30
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0EH     ,inserted,106,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1PW     ,inserted,106,eth1/50
+,,,,removed,106,eth1/51
+,,,,removed,106,eth1/52
+,,,,removed,106,eth1/53
+,,,,removed,106,eth1/54
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1HR     ,inserted,106,eth1/43
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955X     ,inserted,106,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339576     ,inserted,106,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956P     ,inserted,106,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955J     ,inserted,106,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955E     ,inserted,106,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339563     ,inserted,106,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392Z1     ,inserted,106,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955G     ,inserted,106,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955Y     ,inserted,106,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955T     ,inserted,106,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956Y     ,inserted,106,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339552     ,inserted,106,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955A     ,inserted,106,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954P     ,inserted,106,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233956V     ,inserted,106,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339572     ,inserted,106,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZE     ,inserted,106,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZJ     ,inserted,106,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZV     ,inserted,106,eth1/32
+,,,,removed,106,eth1/33
+,,,,removed,106,eth1/34
+,,,,removed,106,eth1/35
+,,,,removed,106,eth1/36
+,,,,removed,106,eth1/37
+,,,,removed,106,eth1/38
+,,,,removed,106,eth1/39
+,,,,removed,106,eth1/40
+,,,,removed,106,eth1/41
+,,,,removed,106,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339568     ,inserted,108,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZL     ,inserted,108,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZH     ,inserted,108,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UT     ,inserted,108,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZC     ,inserted,108,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UG     ,inserted,108,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339310     ,inserted,108,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UF     ,inserted,108,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954W     ,inserted,108,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930X     ,inserted,108,eth1/10
+,,,,removed,108,eth1/43
+,,,,removed,108,eth1/44
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1S0     ,inserted,108,eth1/45
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1RZ     ,inserted,108,eth1/46
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1RX     ,inserted,108,eth1/47
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1RT     ,inserted,108,eth1/48
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0F5     ,inserted,108,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R9     ,inserted,108,eth1/50
+,,,,removed,108,eth1/51
+,,,,removed,108,eth1/52
+,,,,removed,108,eth1/53
+,,,,removed,108,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UE     ,inserted,108,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930U     ,inserted,108,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZK     ,inserted,108,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394V3     ,inserted,108,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339579     ,inserted,108,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954V     ,inserted,108,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339564     ,inserted,108,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955R     ,inserted,108,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392YX     ,inserted,108,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UJ     ,inserted,108,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955V     ,inserted,108,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954L     ,inserted,108,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339307     ,inserted,108,eth1/23
+,,,,removed,108,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UC     ,inserted,108,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZB     ,inserted,108,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394V0     ,inserted,108,eth1/27
+,,,,removed,108,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394U0     ,inserted,108,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UU     ,inserted,108,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZT     ,inserted,108,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394KS     ,inserted,108,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955B     ,inserted,108,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233954N     ,inserted,108,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339312     ,inserted,108,eth1/35
+,,,,removed,108,eth1/36
+,,,,removed,108,eth1/37
+,,,,removed,108,eth1/38
+,,,,removed,108,eth1/39
+,,,,removed,108,eth1/40
+,,,,removed,108,eth1/41
+,,,,removed,108,eth1/42
+,,,,removed,119,eth1/43
+,,,,removed,119,eth1/44
+,,,,removed,119,eth1/45
+,,,,removed,119,eth1/46
+,,,,removed,119,eth1/47
+,,,,removed,119,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JJ     ,inserted,119,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3MX     ,inserted,119,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JW     ,inserted,119,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0J9     ,inserted,119,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JH     ,inserted,119,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0KC     ,inserted,119,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0J7     ,inserted,119,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JT     ,inserted,119,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3N0     ,inserted,119,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D50G     ,inserted,119,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0KB     ,inserted,119,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JZ     ,inserted,119,eth1/11
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GS     ,inserted,119,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N037     ,inserted,119,eth1/50
+,,,,removed,119,eth1/51
+,,,,removed,119,eth1/52
+,,,,removed,119,eth1/53
+,,,,removed,119,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234796B6     ,inserted,119,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795U5     ,inserted,119,eth1/25
+,,,,removed,119,eth1/27
+,,,,removed,119,eth1/28
+,,,,removed,119,eth1/29
+,,,,removed,119,eth1/30
+,,,,removed,119,eth1/31
+,,,,removed,119,eth1/32
+,,,,removed,119,eth1/33
+,,,,removed,119,eth1/34
+,,,,removed,119,eth1/35
+,,,,removed,119,eth1/36
+,,,,removed,119,eth1/37
+,,,,removed,119,eth1/38
+,,,,removed,119,eth1/39
+,,,,removed,119,eth1/40
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030LHV     ,inserted,119,eth1/41
+,,,,removed,119,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795SL     ,inserted,119,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795SX     ,inserted,119,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0K4     ,inserted,119,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JF     ,inserted,119,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D244     ,inserted,119,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3K3     ,inserted,119,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D7T3     ,inserted,119,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JC     ,inserted,119,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0JA     ,inserted,119,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D0KN     ,inserted,119,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3L6     ,inserted,119,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D243     ,inserted,119,eth1/20
+,,,,unknown,113,eth1/23
+,,,,unknown,113,eth1/28
+,,,,unknown,113,eth1/29
+,,,,unknown,113,eth1/30
+,,,,unknown,113,eth1/31
+,,,,unknown,113,eth1/32
+,,,,unknown,113,eth1/33
+,,,,unknown,113,eth1/34
+,,,,unknown,113,eth1/35
+,,,,unknown,113,eth1/36
+,,,,unknown,113,eth1/37
+,,,,unknown,113,eth1/38
+,,,,unknown,113,eth1/39
+,,,,unknown,113,eth1/40
+,,,,unknown,113,eth1/41
+,,,,unknown,113,eth1/42
+,,,,unknown,113,eth1/16
+,,,,unknown,113,eth1/18
+,,,,unknown,113,eth1/14
+,,,,unknown,113,eth1/13
+,,,,unknown,113,eth1/17
+,,,,unknown,113,eth1/15
+,,,,unknown,113,eth1/19
+,,,,unknown,113,eth1/12
+,,,,unknown,113,eth1/11
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3AA     ,inserted,113,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U04Y     ,inserted,113,eth1/50
+,,,,removed,113,eth1/51
+,,,,removed,113,eth1/52
+,,,,removed,113,eth1/53
+,,,,removed,113,eth1/54
+,,,,unknown,113,eth1/43
+,,,,unknown,113,eth1/44
+,,,,unknown,113,eth1/45
+,,,,unknown,113,eth1/46
+,,,,unknown,113,eth1/47
+,,,,unknown,113,eth1/48
+,,,,unknown,113,eth1/1
+,,,,unknown,113,eth1/2
+,,,,unknown,113,eth1/3
+,,,,unknown,113,eth1/22
+,,,,unknown,113,eth1/24
+,,,,unknown,113,eth1/26
+,,,,unknown,113,eth1/27
+,,,,unknown,113,eth1/25
+,,,,unknown,113,eth1/10
+,,,,unknown,113,eth1/9
+,,,,unknown,113,eth1/8
+,,,,unknown,113,eth1/6
+,,,,unknown,113,eth1/7
+,,,,unknown,113,eth1/5
+,,,,unknown,113,eth1/4
+,,,,unknown,113,eth1/21
+,,,,unknown,113,eth1/20
+,,,,removed,120,eth1/43
+,,,,removed,120,eth1/44
+,,,,removed,120,eth1/45
+,,,,removed,120,eth1/46
+,,,,removed,120,eth1/47
+,,,,removed,120,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D248     ,inserted,120,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25C     ,inserted,120,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D238     ,inserted,120,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D267     ,inserted,120,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24R     ,inserted,120,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D26M     ,inserted,120,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23T     ,inserted,120,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23X     ,inserted,120,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24L     ,inserted,120,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D265     ,inserted,120,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D235     ,inserted,120,eth1/18
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N01Y     ,inserted,120,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N02U     ,inserted,120,eth1/50
+,,,,removed,120,eth1/51
+,,,,removed,120,eth1/52
+,,,,removed,120,eth1/53
+,,,,removed,120,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346979P     ,inserted,120,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346979L     ,inserted,120,eth1/25
+,,,,removed,120,eth1/27
+,,,,removed,120,eth1/28
+,,,,removed,120,eth1/29
+,,,,removed,120,eth1/30
+,,,,removed,120,eth1/31
+,,,,removed,120,eth1/32
+,,,,removed,120,eth1/33
+,,,,removed,120,eth1/34
+,,,,removed,120,eth1/35
+,,,,removed,120,eth1/36
+,,,,removed,120,eth1/37
+,,,,removed,120,eth1/38
+,,,,removed,120,eth1/39
+,,,,removed,120,eth1/40
+,,,,removed,120,eth1/41
+,,,,removed,120,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346925B     ,inserted,120,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD23479HNE     ,inserted,120,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D239     ,inserted,120,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D261     ,inserted,120,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D268     ,inserted,120,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23K     ,inserted,120,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25A     ,inserted,120,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D26N     ,inserted,120,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D258     ,inserted,120,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D260     ,inserted,120,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25K     ,inserted,120,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23G     ,inserted,120,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D241     ,inserted,120,eth1/14
+,,,,removed,121,eth1/43
+,,,,removed,121,eth1/44
+,,,,removed,121,eth1/45
+,,,,removed,121,eth1/46
+,,,,removed,121,eth1/47
+,,,,removed,121,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D259     ,inserted,121,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24T     ,inserted,121,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D22X     ,inserted,121,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24W     ,inserted,121,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D237     ,inserted,121,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24G     ,inserted,121,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24J     ,inserted,121,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D250     ,inserted,121,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25N     ,inserted,121,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25D     ,inserted,121,eth1/3
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GD     ,inserted,121,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GZ     ,inserted,121,eth1/50
+,,,,removed,121,eth1/51
+,,,,removed,121,eth1/52
+,,,,removed,121,eth1/53
+,,,,removed,121,eth1/54
+,,,,removed,121,eth1/23
+,,,,removed,121,eth1/24
+,,,,removed,121,eth1/25
+,,,,removed,121,eth1/26
+,,,,removed,121,eth1/27
+,,,,removed,121,eth1/28
+,,,,removed,121,eth1/29
+,,,,removed,121,eth1/30
+,,,,removed,121,eth1/31
+,,,,removed,121,eth1/32
+,,,,removed,121,eth1/33
+,,,,removed,121,eth1/34
+,,,,removed,121,eth1/35
+,,,,removed,121,eth1/36
+,,,,removed,121,eth1/37
+,,,,removed,121,eth1/38
+,,,,removed,121,eth1/39
+,,,,removed,121,eth1/40
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030GDT     ,inserted,121,eth1/41
+,,,,removed,121,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D230     ,inserted,121,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24Y     ,inserted,121,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D232     ,inserted,121,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D256     ,inserted,121,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25B     ,inserted,121,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25L     ,inserted,121,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25U     ,inserted,121,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D263     ,inserted,121,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25F     ,inserted,121,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24S     ,inserted,121,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24B     ,inserted,121,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D236     ,inserted,121,eth1/6
+,,,,removed,122,eth1/43
+,,,,removed,122,eth1/44
+,,,,removed,122,eth1/45
+,,,,removed,122,eth1/46
+,,,,removed,122,eth1/47
+,,,,removed,122,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24U     ,inserted,122,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23L     ,inserted,122,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23D     ,inserted,122,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D26L     ,inserted,122,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23F     ,inserted,122,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23U     ,inserted,122,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D242     ,inserted,122,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23V     ,inserted,122,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D255     ,inserted,122,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24K     ,inserted,122,eth1/4
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1H2     ,inserted,122,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GM     ,inserted,122,eth1/50
+,,,,removed,122,eth1/51
+,,,,removed,122,eth1/52
+,,,,removed,122,eth1/53
+,,,,removed,122,eth1/54
+,,,,removed,122,eth1/23
+,,,,removed,122,eth1/24
+,,,,removed,122,eth1/25
+,,,,removed,122,eth1/26
+,,,,removed,122,eth1/27
+,,,,removed,122,eth1/28
+,,,,removed,122,eth1/29
+,,,,removed,122,eth1/30
+,,,,removed,122,eth1/31
+,,,,removed,122,eth1/32
+,,,,removed,122,eth1/33
+,,,,removed,122,eth1/34
+,,,,removed,122,eth1/35
+,,,,removed,122,eth1/36
+,,,,removed,122,eth1/37
+,,,,removed,122,eth1/38
+,,,,removed,122,eth1/39
+,,,,removed,122,eth1/40
+,,,,removed,122,eth1/41
+,,,,removed,122,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24X     ,inserted,122,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23C     ,inserted,122,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24V     ,inserted,122,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D266     ,inserted,122,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D26K     ,inserted,122,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25V     ,inserted,122,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D21J     ,inserted,122,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25J     ,inserted,122,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24P     ,inserted,122,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23Y     ,inserted,122,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23P     ,inserted,122,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D262     ,inserted,122,eth1/18
+,,,,unknown,115,eth1/15
+,,,,unknown,115,eth1/30
+,,,,unknown,115,eth1/33
+,,,,unknown,115,eth1/47
+,,,,unknown,115,eth1/23
+,,,,unknown,115,eth1/18
+,,,,unknown,115,eth1/41
+,,,,removed,115,eth1/51
+,,,,unknown,115,eth1/46
+,,,,unknown,115,eth1/24
+,,,,removed,115,eth1/52
+,,,,unknown,115,eth1/45
+,,,,unknown,115,eth1/27
+,,,,unknown,115,eth1/22
+,,,,unknown,115,eth1/39
+,,,,unknown,115,eth1/43
+,,,,unknown,115,eth1/21
+,,,,unknown,115,eth1/6
+,,,,unknown,115,eth1/16
+,,,,unknown,115,eth1/32
+,,,,unknown,115,eth1/9
+,,,,unknown,115,eth1/20
+,,,,unknown,115,eth1/28
+,,,,unknown,115,eth1/5
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U2KZ     ,inserted,115,eth1/49
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303KK     ,inserted,115,eth1/50
+,,,,unknown,115,eth1/13
+,,,,removed,115,eth1/53
+,,,,unknown,115,eth1/19
+,,,,unknown,115,eth1/3
+,,,,unknown,115,eth1/1
+,,,,unknown,115,eth1/2
+,,,,unknown,115,eth1/38
+,,,,unknown,115,eth1/34
+,,,,unknown,115,eth1/11
+,,,,unknown,115,eth1/44
+,,,,unknown,115,eth1/35
+,,,,unknown,115,eth1/48
+,,,,unknown,115,eth1/36
+,,,,unknown,115,eth1/4
+,,,,unknown,115,eth1/37
+,,,,unknown,115,eth1/12
+,,,,unknown,115,eth1/8
+,,,,unknown,115,eth1/42
+,,,,unknown,115,eth1/29
+,,,,unknown,115,eth1/10
+,,,,unknown,115,eth1/14
+,,,,unknown,115,eth1/7
+,,,,removed,115,eth1/54
+,,,,unknown,115,eth1/26
+,,,,unknown,115,eth1/25
+,,,,unknown,115,eth1/17
+,,,,unknown,115,eth1/40
+,,,,unknown,115,eth1/31
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030JGJ     ,inserted,123,eth1/43
+,,,,removed,123,eth1/44
+,,,,removed,123,eth1/45
+unknown,,,,inserted,123,eth1/46
+,,,,removed,123,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346925R     ,inserted,123,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346925P     ,inserted,123,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795TR     ,inserted,123,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234693TD     ,inserted,123,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D257     ,inserted,123,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D233     ,inserted,123,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25G     ,inserted,123,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25Z     ,inserted,123,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23J     ,inserted,123,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25Y     ,inserted,123,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23W     ,inserted,123,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23H     ,inserted,123,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D246     ,inserted,123,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D264     ,inserted,123,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23R     ,inserted,123,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23E     ,inserted,123,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D254     ,inserted,123,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24A     ,inserted,123,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25X     ,inserted,123,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24F     ,inserted,123,eth1/5
+,,,,removed,123,eth1/49
+,,,,removed,123,eth1/50
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N00M     ,inserted,123,eth1/51
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N00D     ,inserted,123,eth1/52
+,,,,removed,123,eth1/53
+,,,,removed,123,eth1/54
+,CISCO-AVAGO     ,SBCU-5740ARZ-CS1,AVC2106227C     ,removed,123,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2333D16R     ,inserted,123,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3MW     ,inserted,123,eth1/22
+,,,,removed,123,eth1/23
+,,,,removed,123,eth1/24
+,,,,removed,123,eth1/25
+,,,,removed,123,eth1/26
+,,,,removed,123,eth1/27
+,,,,removed,123,eth1/28
+,,,,removed,123,eth1/29
+,,,,removed,123,eth1/30
+,,,,removed,123,eth1/31
+,,,,removed,123,eth1/32
+,,,,removed,123,eth1/33
+,,,,removed,123,eth1/34
+,,,,removed,123,eth1/35
+,,,,removed,123,eth1/36
+,,,,removed,123,eth1/37
+,,,,removed,123,eth1/38
+,,,,removed,123,eth1/39
+,,,,removed,123,eth1/40
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030GDE     ,inserted,123,eth1/41
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030LLX     ,inserted,123,eth1/42
+,,,,unknown,114,eth1/11
+,,,,unknown,114,eth1/12
+,,,,unknown,114,eth1/13
+,,,,unknown,114,eth1/14
+,,,,unknown,114,eth1/15
+,,,,unknown,114,eth1/16
+,,,,unknown,114,eth1/17
+,,,,unknown,114,eth1/18
+,,,,unknown,114,eth1/19
+,,,,unknown,114,eth1/20
+,,,,unknown,114,eth1/37
+,,,,unknown,114,eth1/38
+,,,,unknown,114,eth1/39
+,,,,unknown,114,eth1/40
+,,,,unknown,114,eth1/41
+,,,,unknown,114,eth1/42
+,,,,unknown,114,eth1/43
+,,,,unknown,114,eth1/44
+,,,,unknown,114,eth1/45
+,,,,unknown,114,eth1/46
+,,,,unknown,114,eth1/47
+,,,,unknown,114,eth1/48
+,,,,unknown,114,eth1/1
+,,,,unknown,114,eth1/6
+,,,,unknown,114,eth1/2
+,,,,unknown,114,eth1/7
+,,,,unknown,114,eth1/8
+,,,,unknown,114,eth1/4
+,,,,unknown,114,eth1/9
+,,,,unknown,114,eth1/5
+,,,,unknown,114,eth1/10
+,,,,unknown,114,eth1/3
+,,,,unknown,114,eth1/21
+,,,,unknown,114,eth1/22
+,,,,unknown,114,eth1/23
+,,,,unknown,114,eth1/24
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM1925U3FT     ,inserted,114,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3AB     ,inserted,114,eth1/50
+,,,,removed,114,eth1/51
+,,,,removed,114,eth1/52
+,,,,removed,114,eth1/53
+,,,,removed,114,eth1/54
+,,,,unknown,114,eth1/25
+,,,,unknown,114,eth1/26
+,,,,unknown,114,eth1/27
+,,,,unknown,114,eth1/28
+,,,,unknown,114,eth1/29
+,,,,unknown,114,eth1/30
+,,,,unknown,114,eth1/31
+,,,,unknown,114,eth1/32
+,,,,unknown,114,eth1/33
+,,,,unknown,114,eth1/34
+,,,,unknown,114,eth1/35
+,,,,unknown,114,eth1/36
+,,,,unknown,116,eth1/46
+,,,,unknown,116,eth1/24
+,,,,removed,116,eth1/52
+,,,,unknown,116,eth1/45
+,,,,unknown,116,eth1/27
+,,,,unknown,116,eth1/22
+,,,,unknown,116,eth1/39
+,,,,unknown,116,eth1/43
+,,,,unknown,116,eth1/21
+,,,,unknown,116,eth1/6
+,,,,unknown,116,eth1/16
+,,,,unknown,116,eth1/13
+,,,,removed,116,eth1/53
+,,,,unknown,116,eth1/19
+,,,,unknown,116,eth1/3
+,,,,unknown,116,eth1/1
+,,,,unknown,116,eth1/2
+,,,,unknown,116,eth1/15
+,,,,unknown,116,eth1/30
+,,,,unknown,116,eth1/33
+,,,,unknown,116,eth1/47
+,,,,unknown,116,eth1/23
+,,,,unknown,116,eth1/18
+,,,,unknown,116,eth1/41
+,,,,removed,116,eth1/51
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U054     ,inserted,116,eth1/49
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303P6     ,inserted,116,eth1/50
+,,,,unknown,116,eth1/38
+,,,,unknown,116,eth1/34
+,,,,unknown,116,eth1/11
+,,,,unknown,116,eth1/44
+,,,,unknown,116,eth1/35
+,,,,unknown,116,eth1/48
+,,,,unknown,116,eth1/36
+,,,,unknown,116,eth1/4
+,,,,unknown,116,eth1/37
+,,,,unknown,116,eth1/12
+,,,,unknown,116,eth1/8
+,,,,unknown,116,eth1/42
+,,,,unknown,116,eth1/29
+,,,,unknown,116,eth1/10
+,,,,unknown,116,eth1/14
+,,,,unknown,116,eth1/7
+,,,,removed,116,eth1/54
+,,,,unknown,116,eth1/26
+,,,,unknown,116,eth1/25
+,,,,unknown,116,eth1/17
+,,,,unknown,116,eth1/40
+,,,,unknown,116,eth1/31
+,,,,unknown,116,eth1/32
+,,,,unknown,116,eth1/9
+,,,,unknown,116,eth1/20
+,,,,unknown,116,eth1/28
+,,,,unknown,116,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG98     ,inserted,117,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG93     ,inserted,117,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9X     ,inserted,117,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9W     ,inserted,117,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG2G     ,inserted,117,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9E     ,inserted,117,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1U     ,inserted,117,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9F     ,inserted,117,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA2     ,inserted,117,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBL     ,inserted,117,eth1/10
+,,,,removed,117,eth1/43
+,,,,removed,117,eth1/44
+,,,,removed,117,eth1/45
+,,,,removed,117,eth1/46
+,,,,removed,117,eth1/47
+,,,,removed,117,eth1/48
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U54K     ,inserted,117,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5C1     ,inserted,117,eth1/50
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EX     ,inserted,117,eth1/51
+,,,,removed,117,eth1/52
+,,,,removed,117,eth1/53
+,,,,removed,117,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAF     ,inserted,117,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG8U     ,inserted,117,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBZ     ,inserted,117,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9Z     ,inserted,117,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG99     ,inserted,117,eth1/15
+,,,,removed,117,eth1/16
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8PF    ,inserted,117,eth1/17
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8P8    ,inserted,117,eth1/18
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8PH    ,inserted,117,eth1/19
+,,,,removed,117,eth1/20
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94RD    ,inserted,117,eth1/21
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94TP    ,inserted,117,eth1/22
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT90H    ,inserted,117,eth1/23
+,,,,removed,117,eth1/24
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94Y2    ,inserted,117,eth1/25
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT937    ,inserted,117,eth1/26
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8N3    ,inserted,117,eth1/27
+,,,,removed,117,eth1/28
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94RC    ,inserted,117,eth1/29
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94RM    ,inserted,117,eth1/30
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94P1    ,inserted,117,eth1/31
+,,,,removed,117,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9C     ,inserted,117,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9M     ,inserted,117,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA9     ,inserted,117,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAZ     ,inserted,117,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAD     ,inserted,117,eth1/37
+,,,,removed,117,eth1/38
+,,,,removed,117,eth1/39
+,,,,removed,117,eth1/40
+,,,,removed,117,eth1/41
+,,,,removed,117,eth1/42
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030JH9     ,inserted,124,eth1/43
+,,,,removed,124,eth1/44
+,,,,removed,124,eth1/45
+unknown,,,,inserted,124,eth1/46
+,,,,removed,124,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD23469250     ,inserted,124,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD23469240     ,inserted,124,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234796B5     ,inserted,124,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234693T7     ,inserted,124,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25T     ,inserted,124,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25R     ,inserted,124,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D21G     ,inserted,124,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25S     ,inserted,124,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25M     ,inserted,124,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D25P     ,inserted,124,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24H     ,inserted,124,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24E     ,inserted,124,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24D     ,inserted,124,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D24C     ,inserted,124,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D21E     ,inserted,124,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D240     ,inserted,124,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D247     ,inserted,124,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D23Z     ,inserted,124,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D245     ,inserted,124,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D249     ,inserted,124,eth1/7
+,,,,removed,124,eth1/49
+,,,,removed,124,eth1/50
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N02W     ,inserted,124,eth1/51
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N036     ,inserted,124,eth1/52
+,,,,removed,124,eth1/53
+,,,,removed,124,eth1/54
+,CISCO-AVAGO     ,SBCU-5740ARZ-CS1,AVC2106227L     ,removed,124,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2333D18Y     ,inserted,124,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2332D3L5     ,inserted,124,eth1/22
+,,,,removed,124,eth1/23
+,,,,removed,124,eth1/24
+,,,,removed,124,eth1/25
+,,,,removed,124,eth1/26
+,,,,removed,124,eth1/27
+,,,,removed,124,eth1/28
+,,,,removed,124,eth1/29
+,,,,removed,124,eth1/30
+,,,,removed,124,eth1/31
+,,,,removed,124,eth1/32
+,,,,removed,124,eth1/33
+,,,,removed,124,eth1/34
+,,,,removed,124,eth1/35
+,,,,removed,124,eth1/36
+,,,,removed,124,eth1/37
+,,,,removed,124,eth1/38
+,,,,removed,124,eth1/39
+,,,,removed,124,eth1/40
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030LMY     ,inserted,124,eth1/41
+1000base-T,CISCO           ,SP7041-TE       ,MTC23030F3C     ,inserted,124,eth1/42
+,,,,removed,125,eth1/5
+,,,,removed,125,eth1/6
+,,,,removed,125,eth1/7
+,,,,removed,125,eth1/8
+,,,,removed,125,eth1/9
+,,,,removed,125,eth1/10
+,,,,removed,125,eth1/43
+,,,,removed,125,eth1/44
+,,,,removed,125,eth1/45
+,,,,removed,125,eth1/46
+,,,,removed,125,eth1/47
+,,,,removed,125,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234693SS     ,inserted,125,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234692SD     ,inserted,125,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2346926S     ,inserted,125,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795UA     ,inserted,125,eth1/1
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N04U     ,inserted,125,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N004     ,inserted,125,eth1/50
+,,,,removed,125,eth1/51
+,,,,removed,125,eth1/52
+,,,,removed,125,eth1/53
+,,,,removed,125,eth1/54
+,,,,removed,125,eth1/11
+,,,,removed,125,eth1/12
+,,,,removed,125,eth1/13
+,,,,removed,125,eth1/14
+,,,,removed,125,eth1/15
+,,,,removed,125,eth1/16
+,,,,removed,125,eth1/17
+,,,,removed,125,eth1/18
+,,,,removed,125,eth1/19
+,,,,removed,125,eth1/20
+,,,,removed,125,eth1/21
+,,,,removed,125,eth1/22
+,,,,removed,125,eth1/23
+,,,,removed,125,eth1/24
+,,,,removed,125,eth1/25
+,,,,removed,125,eth1/26
+,,,,removed,125,eth1/27
+,,,,removed,125,eth1/28
+,,,,removed,125,eth1/29
+,,,,removed,125,eth1/30
+,,,,removed,125,eth1/31
+,,,,removed,125,eth1/32
+,,,,removed,125,eth1/33
+,,,,removed,125,eth1/34
+,,,,removed,125,eth1/35
+,,,,removed,125,eth1/36
+,,,,removed,125,eth1/37
+,,,,removed,125,eth1/38
+,,,,removed,125,eth1/39
+,,,,removed,125,eth1/40
+,,,,removed,125,eth1/41
+,,,,removed,125,eth1/42
+,,,,removed,126,eth1/5
+,,,,removed,126,eth1/6
+,,,,removed,126,eth1/7
+,,,,removed,126,eth1/8
+,,,,removed,126,eth1/9
+,,,,removed,126,eth1/10
+,,,,removed,126,eth1/43
+,,,,removed,126,eth1/44
+,,,,removed,126,eth1/45
+,,,,removed,126,eth1/46
+,,,,removed,126,eth1/47
+,,,,removed,126,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795SN     ,inserted,126,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234796C9     ,inserted,126,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD23479CGX     ,inserted,126,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD234795UH     ,inserted,126,eth1/1
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1BR     ,inserted,126,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N03U     ,inserted,126,eth1/50
+,,,,removed,126,eth1/51
+,,,,removed,126,eth1/52
+,,,,removed,126,eth1/53
+,,,,removed,126,eth1/54
+,,,,removed,126,eth1/11
+,,,,removed,126,eth1/12
+,,,,removed,126,eth1/13
+,,,,removed,126,eth1/14
+,,,,removed,126,eth1/15
+,,,,removed,126,eth1/16
+,,,,removed,126,eth1/17
+,,,,removed,126,eth1/18
+,,,,removed,126,eth1/19
+,,,,removed,126,eth1/20
+,,,,removed,126,eth1/21
+,,,,removed,126,eth1/22
+,,,,removed,126,eth1/23
+,,,,removed,126,eth1/24
+,,,,removed,126,eth1/25
+,,,,removed,126,eth1/26
+,,,,removed,126,eth1/27
+,,,,removed,126,eth1/28
+,,,,removed,126,eth1/29
+,,,,removed,126,eth1/30
+,,,,removed,126,eth1/31
+,,,,removed,126,eth1/32
+,,,,removed,126,eth1/33
+,,,,removed,126,eth1/34
+,,,,removed,126,eth1/35
+,,,,removed,126,eth1/36
+,,,,removed,126,eth1/37
+,,,,removed,126,eth1/38
+,,,,removed,126,eth1/39
+,,,,removed,126,eth1/40
+,,,,removed,126,eth1/41
+,,,,removed,126,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBK     ,inserted,118,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9Y     ,inserted,118,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAN     ,inserted,118,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAR     ,inserted,118,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBV     ,inserted,118,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG97     ,inserted,118,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9A     ,inserted,118,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9B     ,inserted,118,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG92     ,inserted,118,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG94     ,inserted,118,eth1/10
+,,,,removed,118,eth1/43
+,,,,removed,118,eth1/44
+,,,,removed,118,eth1/45
+,,,,removed,118,eth1/46
+,,,,removed,118,eth1/47
+,,,,removed,118,eth1/48
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EE     ,inserted,118,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EV     ,inserted,118,eth1/50
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U543     ,inserted,118,eth1/51
+,,,,removed,118,eth1/52
+,,,,removed,118,eth1/53
+,,,,removed,118,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1H     ,inserted,118,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1P     ,inserted,118,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1L     ,inserted,118,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG2B     ,inserted,118,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1K     ,inserted,118,eth1/15
+,,,,removed,118,eth1/16
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94R2    ,inserted,118,eth1/17
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94T6    ,inserted,118,eth1/18
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94T9    ,inserted,118,eth1/19
+,,,,removed,118,eth1/20
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT91L    ,inserted,118,eth1/21
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8Y5    ,inserted,118,eth1/22
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94N8    ,inserted,118,eth1/23
+,,,,removed,118,eth1/24
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8YE    ,inserted,118,eth1/25
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BV07N    ,inserted,118,eth1/26
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT97Y    ,inserted,118,eth1/27
+,,,,removed,118,eth1/28
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94RB    ,inserted,118,eth1/29
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94R3    ,inserted,118,eth1/30
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94T3    ,inserted,118,eth1/31
+,,,,removed,118,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA0     ,inserted,118,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9K     ,inserted,118,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1R     ,inserted,118,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9L     ,inserted,118,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9D     ,inserted,118,eth1/37
+,,,,removed,118,eth1/38
+,,,,removed,118,eth1/39
+,,,,removed,118,eth1/40
+,,,,removed,118,eth1/41
+,,,,removed,118,eth1/42
+,,,,removed,128,eth1/13
+,,,,removed,128,eth1/53
+,,,,removed,128,eth1/19
+,,,,removed,128,eth1/3
+,,,,removed,128,eth1/1
+,,,,removed,128,eth1/2
+,,,,removed,128,eth1/38
+,,,,removed,128,eth1/34
+,,,,removed,128,eth1/11
+,,,,removed,128,eth1/44
+,,,,removed,128,eth1/35
+,,,,removed,128,eth1/48
+,,,,removed,128,eth1/36
+,,,,removed,128,eth1/4
+,,,,removed,128,eth1/37
+,,,,removed,128,eth1/12
+,,,,removed,128,eth1/8
+,,,,removed,128,eth1/42
+,,,,removed,128,eth1/29
+,,,,removed,128,eth1/39
+,,,,removed,128,eth1/43
+,,,,removed,128,eth1/21
+,,,,removed,128,eth1/6
+,,,,removed,128,eth1/16
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U037     ,inserted,128,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02Z     ,inserted,128,eth1/50
+,,,,removed,128,eth1/10
+,,,,removed,128,eth1/14
+,,,,removed,128,eth1/7
+,,,,removed,128,eth1/54
+,,,,removed,128,eth1/26
+,,,,removed,128,eth1/25
+,,,,removed,128,eth1/17
+,,,,removed,128,eth1/40
+,,,,removed,128,eth1/31
+,,,,removed,128,eth1/32
+,,,,removed,128,eth1/9
+,,,,removed,128,eth1/20
+,,,,removed,128,eth1/28
+,,,,removed,128,eth1/5
+,,,,removed,128,eth1/15
+,,,,removed,128,eth1/30
+,,,,removed,128,eth1/33
+,,,,removed,128,eth1/47
+,,,,removed,128,eth1/23
+,,,,removed,128,eth1/18
+,,,,removed,128,eth1/41
+,,,,removed,128,eth1/51
+,,,,removed,128,eth1/46
+,,,,removed,128,eth1/24
+,,,,removed,128,eth1/52
+,,,,removed,128,eth1/45
+,,,,removed,128,eth1/27
+,,,,removed,128,eth1/22
+,,,,removed,129,eth1/1
+,,,,removed,129,eth1/2
+,,,,removed,129,eth1/3
+,,,,removed,129,eth1/4
+,,,,removed,129,eth1/5
+,,,,removed,129,eth1/6
+,,,,removed,129,eth1/7
+,,,,removed,129,eth1/8
+,,,,removed,129,eth1/9
+,,,,removed,129,eth1/10
+,,,,removed,129,eth1/43
+,,,,removed,129,eth1/44
+,,,,removed,129,eth1/45
+,,,,removed,129,eth1/46
+,,,,removed,129,eth1/47
+,,,,removed,129,eth1/48
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02T     ,inserted,129,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U031     ,inserted,129,eth1/50
+,,,,removed,129,eth1/51
+,,,,removed,129,eth1/52
+,,,,removed,129,eth1/53
+,,,,removed,129,eth1/54
+,,,,removed,129,eth1/11
+,,,,removed,129,eth1/12
+,,,,removed,129,eth1/13
+,,,,removed,129,eth1/14
+,,,,removed,129,eth1/15
+,,,,removed,129,eth1/16
+,,,,removed,129,eth1/17
+,,,,removed,129,eth1/18
+,,,,removed,129,eth1/19
+,,,,removed,129,eth1/20
+,,,,removed,129,eth1/21
+,,,,removed,129,eth1/22
+,,,,removed,129,eth1/23
+,,,,removed,129,eth1/24
+,,,,removed,129,eth1/25
+,,,,removed,129,eth1/26
+,,,,removed,129,eth1/27
+,,,,removed,129,eth1/28
+,,,,removed,129,eth1/29
+,,,,removed,129,eth1/30
+,,,,removed,129,eth1/31
+,,,,removed,129,eth1/32
+,,,,removed,129,eth1/33
+,,,,removed,129,eth1/34
+,,,,removed,129,eth1/35
+,,,,removed,129,eth1/36
+,,,,removed,129,eth1/37
+,,,,removed,129,eth1/38
+,,,,removed,129,eth1/39
+,,,,removed,129,eth1/40
+,,,,removed,129,eth1/41
+,,,,removed,129,eth1/42
+10Gbase-LR,CISCO-OPLINK    ,TPP5XGFLRCCISE2G,OPM22220JM0     ,inserted,198,eth1/2
+10Gbase-LR,CISCO-OPLINK    ,TPP5XGFLRCCISE2G,OPM22220JP1     ,inserted,198,eth1/3
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1S5     ,inserted,198,eth1/4
+,,,,removed,198,eth1/5
+,,,,removed,198,eth1/6
+,,,,removed,198,eth1/7
+,,,,removed,198,eth1/8
+,,,,removed,198,eth1/9
+,,,,removed,198,eth1/10
+,,,,removed,198,eth1/43
+,,,,removed,198,eth1/44
+,,,,removed,198,eth1/45
+,,,,removed,198,eth1/46
+,,,,removed,198,eth1/47
+,,,,removed,198,eth1/48
+10Gbase-LR,CISCO-OPLINK    ,TPP5XGFLRCCISE2G,OPM22220JLB     ,inserted,198,eth1/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TE     ,inserted,198,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TG     ,inserted,198,eth1/50
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160F0K     ,inserted,198,eth1/51
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PF6     ,inserted,198,eth1/52
+,,,,removed,198,eth1/53
+,,,,removed,198,eth1/54
+,,,,removed,198,eth1/11
+,,,,removed,198,eth1/12
+,,,,removed,198,eth1/13
+,,,,removed,198,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFR     ,inserted,198,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRMC     ,inserted,198,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394VT     ,inserted,198,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339316     ,inserted,198,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392Z0     ,inserted,198,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233955W     ,inserted,198,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394HZ     ,inserted,198,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930L     ,inserted,198,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339314     ,inserted,198,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZG     ,inserted,198,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339551     ,inserted,198,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339308     ,inserted,198,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D6FL     ,inserted,198,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223396SS     ,inserted,198,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233930Z     ,inserted,198,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392ZF     ,inserted,198,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UN     ,inserted,198,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223392YY     ,inserted,198,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233931L     ,inserted,198,eth1/33
+,,,,removed,198,eth1/34
+,,,,removed,198,eth1/35
+,,,,removed,198,eth1/36
+,,,,removed,198,eth1/37
+,,,,removed,198,eth1/38
+,,,,removed,198,eth1/39
+,,,,removed,198,eth1/40
+,,,,removed,198,eth1/41
+,,,,removed,198,eth1/42
+,,,,removed,199,eth1/2
+,,,,removed,199,eth1/3
+,,,,removed,199,eth1/4
+,,,,removed,199,eth1/5
+,,,,removed,199,eth1/6
+,,,,removed,199,eth1/7
+,,,,removed,199,eth1/8
+,,,,removed,199,eth1/9
+,,,,removed,199,eth1/10
+,,,,removed,199,eth1/43
+,,,,removed,199,eth1/44
+,,,,removed,199,eth1/45
+,,,,removed,199,eth1/46
+10Gbase-LR,CISCO-OPLINK    ,TPP5XGFLRCCISE2G,OPM22220JM2     ,inserted,199,eth1/47
+,,,,removed,199,eth1/48
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C2,FNS203919FM     ,inserted,199,eth1/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00G     ,inserted,199,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U39W     ,inserted,199,eth1/50
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160EZW     ,inserted,199,eth1/51
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PEJ     ,inserted,199,eth1/52
+,,,,removed,199,eth1/53
+,,,,removed,199,eth1/54
+,,,,removed,199,eth1/11
+,,,,removed,199,eth1/12
+,,,,removed,199,eth1/13
+,,,,removed,199,eth1/14
+,,,,removed,199,eth1/15
+,,,,removed,199,eth1/16
+,,,,removed,199,eth1/17
+,,,,removed,199,eth1/18
+,,,,removed,199,eth1/19
+,,,,removed,199,eth1/20
+,,,,removed,199,eth1/21
+,,,,removed,199,eth1/22
+,,,,removed,199,eth1/23
+,,,,removed,199,eth1/24
+,,,,removed,199,eth1/25
+,,,,removed,199,eth1/26
+,,,,removed,199,eth1/27
+,,,,removed,199,eth1/28
+,,,,removed,199,eth1/29
+,,,,removed,199,eth1/30
+,,,,removed,199,eth1/31
+,,,,removed,199,eth1/32
+,,,,removed,199,eth1/33
+,,,,removed,199,eth1/34
+,,,,removed,199,eth1/35
+,,,,removed,199,eth1/36
+,,,,removed,199,eth1/37
+,,,,removed,199,eth1/38
+,,,,removed,199,eth1/39
+,,,,removed,199,eth1/40
+,,,,removed,199,eth1/41
+,,,,removed,199,eth1/42
+,,,,removed,202,eth1/54
+,,,,removed,202,eth1/51
+,,,,removed,202,eth1/46
+,,,,removed,202,eth1/52
+,,,,removed,202,eth1/19
+,,,,removed,202,eth1/33
+,,,,removed,202,eth1/20
+,,,,removed,202,eth1/34
+,,,,removed,202,eth1/21
+,,,,removed,202,eth1/35
+,,,,removed,202,eth1/22
+,,,,removed,202,eth1/36
+,,,,removed,202,eth1/9
+,,,,removed,202,eth1/23
+,,,,removed,202,eth1/37
+,,,,removed,202,eth1/10
+,,,,removed,202,eth1/24
+,,,,removed,202,eth1/38
+,,,,removed,202,eth1/25
+,,,,removed,202,eth1/39
+,,,,removed,202,eth1/12
+,,,,removed,202,eth1/40
+,,,,removed,202,eth1/13
+,,,,removed,202,eth1/27
+,,,,removed,202,eth1/41
+,,,,removed,202,eth1/14
+,,,,removed,202,eth1/28
+,,,,removed,202,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRM5     ,inserted,202,eth1/1
+10Gbase-SR,CISCO-FINISAR   ,FTLX8574D3BCL-C3,FNS213206ME     ,inserted,202,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLU     ,inserted,202,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7HZ     ,inserted,202,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLP     ,inserted,202,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLT     ,inserted,202,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLG     ,inserted,202,eth1/7
+1000base-LH,CISCO           ,SFCT-5716PZ-CS1 ,AVJ20323HP4     ,inserted,202,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7JB     ,inserted,202,eth1/43
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C88 ,ACW22371DKQ     ,inserted,202,eth1/47
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C88 ,ACW22371DKR     ,inserted,202,eth1/48
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212305BD     ,inserted,202,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M187     ,inserted,202,eth1/50
+,,,,removed,202,eth1/53
+,,,,removed,202,eth1/11
+,,,,removed,202,eth1/42
+,,,,removed,202,eth1/15
+,,,,removed,202,eth1/29
+,,,,removed,202,eth1/16
+,,,,removed,202,eth1/30
+,,,,removed,202,eth1/44
+,,,,removed,202,eth1/17
+,,,,removed,202,eth1/31
+,,,,removed,202,eth1/45
+,,,,removed,202,eth1/18
+,,,,removed,202,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7NE     ,inserted,201,eth1/1
+10Gbase-SR,CISCO-FINISAR   ,FTLX8574D3BCL-C3,FNS213206KT     ,inserted,201,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRJ4     ,inserted,201,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLX     ,inserted,201,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRLK     ,inserted,201,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7HC     ,inserted,201,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7HY     ,inserted,201,eth1/7
+1000base-LH,CISCO           ,SFCT-5716PZ-CS1 ,AVJ20323HPN     ,inserted,201,eth1/8
+1000base-LH,CISCO           ,SFCT-5716PZ     ,AGA1736U9RA     ,inserted,201,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2034D7HX     ,inserted,201,eth1/43
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C3,FNS212916Z2     ,inserted,201,eth1/47
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C3,FNS21291AE4     ,inserted,201,eth1/48
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304J0     ,inserted,201,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0QZ     ,inserted,201,eth1/50
+,,,,removed,201,eth1/33
+,,,,removed,201,eth1/23
+,,,,removed,201,eth1/18
+,,,,removed,201,eth1/41
+,,,,removed,201,eth1/51
+,,,,removed,201,eth1/46
+,,,,removed,201,eth1/24
+,,,,removed,201,eth1/52
+,,,,removed,201,eth1/45
+,,,,removed,201,eth1/27
+,,,,removed,201,eth1/22
+,,,,removed,201,eth1/39
+,,,,removed,201,eth1/21
+,,,,removed,201,eth1/16
+,,,,removed,201,eth1/26
+,,,,removed,201,eth1/13
+,,,,removed,201,eth1/53
+,,,,removed,201,eth1/19
+,,,,removed,201,eth1/38
+,,,,removed,201,eth1/34
+,,,,removed,201,eth1/11
+,,,,removed,201,eth1/44
+,,,,removed,201,eth1/35
+,,,,removed,201,eth1/36
+,,,,removed,201,eth1/37
+,,,,removed,201,eth1/12
+,,,,removed,201,eth1/42
+,,,,removed,201,eth1/29
+,,,,removed,201,eth1/10
+,,,,removed,201,eth1/14
+,,,,removed,201,eth1/54
+,,,,removed,201,eth1/25
+,,,,removed,201,eth1/17
+,,,,removed,201,eth1/40
+,,,,removed,201,eth1/31
+,,,,removed,201,eth1/32
+,,,,removed,201,eth1/20
+,,,,removed,201,eth1/28
+,,,,removed,201,eth1/15
+,,,,removed,201,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964M     ,inserted,203,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BD     ,inserted,203,eth1/12
+,,,,removed,203,eth1/13
+,,,,removed,203,eth1/53
+,,,,removed,203,eth1/19
+,,,,removed,203,eth1/3
+,,,,removed,203,eth1/38
+,,,,removed,203,eth1/34
+,,,,removed,203,eth1/44
+,,,,removed,203,eth1/35
+,,,,removed,203,eth1/48
+,,,,removed,203,eth1/36
+,,,,removed,203,eth1/4
+,,,,removed,203,eth1/37
+,,,,removed,203,eth1/8
+,,,,removed,203,eth1/42
+,,,,removed,203,eth1/29
+,,,,removed,203,eth1/14
+,,,,removed,203,eth1/7
+,,,,removed,203,eth1/39
+,,,,removed,203,eth1/43
+,,,,removed,203,eth1/21
+,,,,removed,203,eth1/6
+,,,,removed,203,eth1/16
+10Gbase-LR,CISCO-AVAGO     ,SFCT-709SMZ-CS1 ,AVD1942T0M4     ,inserted,203,eth1/1
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C3,FNS20390EUM     ,inserted,203,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339653     ,inserted,203,eth1/10
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TM     ,inserted,203,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TN     ,inserted,203,eth1/50
+,,,,removed,203,eth1/54
+,,,,removed,203,eth1/26
+,,,,removed,203,eth1/25
+,,,,removed,203,eth1/17
+,,,,removed,203,eth1/40
+,,,,removed,203,eth1/31
+,,,,removed,203,eth1/32
+,,,,removed,203,eth1/9
+,,,,removed,203,eth1/20
+,,,,removed,203,eth1/28
+,,,,removed,203,eth1/5
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410HWQ     ,inserted,203,eth1/15
+,,,,removed,203,eth1/30
+,,,,removed,203,eth1/33
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3DZ     ,inserted,203,eth1/47
+,,,,removed,203,eth1/23
+,,,,removed,203,eth1/18
+,,,,removed,203,eth1/41
+,,,,removed,203,eth1/51
+,,,,removed,203,eth1/46
+,,,,removed,203,eth1/24
+,,,,removed,203,eth1/52
+,,,,removed,203,eth1/45
+,,,,removed,203,eth1/27
+,,,,removed,203,eth1/22
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T6     ,inserted,205,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H0     ,inserted,205,eth1/50
+,,,,unknown,205,eth1/40
+,,,,unknown,205,eth1/31
+,,,,unknown,205,eth1/32
+,,,,unknown,205,eth1/28
+,,,,unknown,205,eth1/30
+,,,,unknown,205,eth1/33
+,,,,unknown,205,eth1/47
+,,,,unknown,205,eth1/23
+,,,,unknown,205,eth1/41
+,,,,removed,205,eth1/51
+,,,,unknown,205,eth1/46
+,,,,unknown,205,eth1/24
+,,,,removed,205,eth1/52
+,,,,unknown,205,eth1/45
+,,,,unknown,205,eth1/27
+,,,,unknown,205,eth1/22
+,,,,unknown,205,eth1/17
+,,,,unknown,205,eth1/1
+,,,,unknown,205,eth1/19
+,,,,unknown,205,eth1/20
+,,,,unknown,205,eth1/11
+,,,,unknown,205,eth1/2
+,,,,unknown,205,eth1/3
+,,,,unknown,205,eth1/42
+,,,,unknown,205,eth1/29
+,,,,unknown,205,eth1/14
+,,,,removed,205,eth1/54
+,,,,unknown,205,eth1/25
+,,,,unknown,205,eth1/39
+,,,,unknown,205,eth1/43
+,,,,unknown,205,eth1/16
+,,,,removed,205,eth1/53
+,,,,unknown,205,eth1/38
+,,,,unknown,205,eth1/34
+,,,,unknown,205,eth1/44
+,,,,unknown,205,eth1/35
+,,,,unknown,205,eth1/48
+,,,,unknown,205,eth1/36
+,,,,unknown,205,eth1/37
+,,,,unknown,205,eth1/15
+,,,,unknown,205,eth1/9
+,,,,unknown,205,eth1/8
+,,,,unknown,205,eth1/26
+,,,,unknown,205,eth1/5
+,,,,unknown,205,eth1/21
+,,,,unknown,205,eth1/7
+,,,,unknown,205,eth1/18
+,,,,unknown,205,eth1/13
+,,,,unknown,205,eth1/12
+,,,,unknown,205,eth1/4
+,,,,unknown,205,eth1/10
+,,,,unknown,205,eth1/6
+,,,,removed,204,eth1/53
+,,,,removed,204,eth1/19
+,,,,removed,204,eth1/3
+,,,,removed,204,eth1/38
+,,,,removed,204,eth1/34
+,,,,removed,204,eth1/44
+,,,,removed,204,eth1/35
+,,,,removed,204,eth1/48
+,,,,removed,204,eth1/36
+,,,,removed,204,eth1/4
+,,,,removed,204,eth1/37
+,,,,removed,204,eth1/42
+,,,,removed,204,eth1/29
+,,,,removed,204,eth1/14
+,,,,removed,204,eth1/39
+,,,,removed,204,eth1/43
+,,,,removed,204,eth1/21
+,,,,removed,204,eth1/6
+,,,,removed,204,eth1/16
+,,,,removed,204,eth1/12
+,,,,removed,204,eth1/11
+,,,,removed,204,eth1/13
+,,,,removed,204,eth1/9
+,,,,removed,204,eth1/8
+,,,,removed,204,eth1/7
+,,,,removed,204,eth1/22
+,,,,removed,204,eth1/23
+,,,,removed,204,eth1/10
+,,,,removed,204,eth1/20
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C2,FNS20391G5U     ,inserted,204,eth1/1
+10Gbase-LR,CISCO-FINISAR   ,FTLX1474D3BCL-C2,FNS203918R2     ,inserted,204,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T1     ,inserted,204,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T5     ,inserted,204,eth1/50
+,,,,removed,204,eth1/54
+,,,,removed,204,eth1/26
+,,,,removed,204,eth1/25
+,,,,removed,204,eth1/17
+,,,,removed,204,eth1/40
+,,,,removed,204,eth1/31
+,,,,removed,204,eth1/32
+,,,,removed,204,eth1/28
+,,,,removed,204,eth1/5
+10Gbase-LR,CISCO-ACCELINK  ,RTXM228-401-C98 ,ACW22410JBD     ,inserted,204,eth1/15
+,,,,removed,204,eth1/30
+,,,,removed,204,eth1/33
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K3E5     ,inserted,204,eth1/47
+,,,,removed,204,eth1/18
+,,,,removed,204,eth1/41
+,,,,removed,204,eth1/51
+,,,,removed,204,eth1/46
+,,,,removed,204,eth1/24
+,,,,removed,204,eth1/52
+,,,,removed,204,eth1/45
+,,,,removed,204,eth1/27
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TB     ,inserted,206,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A7     ,inserted,206,eth1/50
+,,,,unknown,206,eth1/19
+,,,,unknown,206,eth1/1
+,,,,unknown,206,eth1/2
+,,,,unknown,206,eth1/38
+,,,,unknown,206,eth1/34
+,,,,unknown,206,eth1/44
+,,,,unknown,206,eth1/35
+,,,,unknown,206,eth1/48
+,,,,unknown,206,eth1/36
+,,,,unknown,206,eth1/37
+,,,,unknown,206,eth1/12
+,,,,unknown,206,eth1/8
+,,,,unknown,206,eth1/42
+,,,,unknown,206,eth1/46
+,,,,unknown,206,eth1/24
+,,,,removed,206,eth1/52
+,,,,unknown,206,eth1/45
+,,,,unknown,206,eth1/27
+,,,,unknown,206,eth1/15
+,,,,unknown,206,eth1/26
+,,,,unknown,206,eth1/4
+,,,,unknown,206,eth1/3
+,,,,unknown,206,eth1/6
+,,,,unknown,206,eth1/11
+,,,,unknown,206,eth1/13
+,,,,unknown,206,eth1/22
+,,,,unknown,206,eth1/17
+,,,,unknown,206,eth1/10
+,,,,unknown,206,eth1/14
+,,,,unknown,206,eth1/5
+,,,,unknown,206,eth1/39
+,,,,unknown,206,eth1/43
+,,,,unknown,206,eth1/21
+,,,,unknown,206,eth1/16
+,,,,removed,206,eth1/53
+,,,,unknown,206,eth1/29
+,,,,unknown,206,eth1/7
+,,,,removed,206,eth1/54
+,,,,unknown,206,eth1/25
+,,,,unknown,206,eth1/40
+,,,,unknown,206,eth1/31
+,,,,unknown,206,eth1/32
+,,,,unknown,206,eth1/9
+,,,,unknown,206,eth1/20
+,,,,unknown,206,eth1/28
+,,,,unknown,206,eth1/30
+,,,,unknown,206,eth1/33
+,,,,unknown,206,eth1/47
+,,,,unknown,206,eth1/23
+,,,,unknown,206,eth1/18
+,,,,unknown,206,eth1/41
+,,,,removed,206,eth1/51
+,,,,unknown,207,eth1/13
+,,,,removed,207,eth1/53
+,,,,unknown,207,eth1/19
+,,,,unknown,207,eth1/3
+,,,,unknown,207,eth1/2
+,,,,unknown,207,eth1/38
+,,,,unknown,207,eth1/34
+,,,,unknown,207,eth1/11
+,,,,unknown,207,eth1/44
+,,,,unknown,207,eth1/35
+,,,,unknown,207,eth1/48
+,,,,unknown,207,eth1/36
+,,,,unknown,207,eth1/4
+,,,,unknown,207,eth1/37
+,,,,unknown,207,eth1/12
+,,,,unknown,207,eth1/18
+,,,,unknown,207,eth1/41
+,,,,removed,207,eth1/51
+,,,,unknown,207,eth1/46
+,,,,unknown,207,eth1/24
+,,,,removed,207,eth1/52
+,,,,unknown,207,eth1/45
+,,,,unknown,207,eth1/27
+,,,,unknown,207,eth1/22
+,,,,unknown,207,eth1/39
+,,,,unknown,207,eth1/43
+,,,,unknown,207,eth1/21
+,,,,unknown,207,eth1/6
+,,,,unknown,207,eth1/16
+,,,,unknown,207,eth1/1
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M14W     ,inserted,207,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M140     ,inserted,207,eth1/50
+,,,,unknown,207,eth1/8
+,,,,unknown,207,eth1/42
+,,,,unknown,207,eth1/29
+,,,,unknown,207,eth1/10
+,,,,unknown,207,eth1/14
+,,,,unknown,207,eth1/7
+,,,,removed,207,eth1/54
+,,,,unknown,207,eth1/26
+,,,,unknown,207,eth1/25
+,,,,unknown,207,eth1/17
+,,,,unknown,207,eth1/40
+,,,,unknown,207,eth1/31
+,,,,unknown,207,eth1/32
+,,,,unknown,207,eth1/9
+,,,,unknown,207,eth1/20
+,,,,unknown,207,eth1/28
+,,,,unknown,207,eth1/5
+,,,,unknown,207,eth1/15
+,,,,unknown,207,eth1/30
+,,,,unknown,207,eth1/33
+,,,,unknown,207,eth1/47
+,,,,unknown,207,eth1/23
+,,,,unknown,208,eth1/13
+,,,,removed,208,eth1/53
+,,,,unknown,208,eth1/19
+,,,,unknown,208,eth1/3
+,,,,unknown,208,eth1/2
+,,,,unknown,208,eth1/38
+,,,,unknown,208,eth1/34
+,,,,unknown,208,eth1/11
+,,,,unknown,208,eth1/44
+,,,,unknown,208,eth1/35
+,,,,unknown,208,eth1/48
+,,,,unknown,208,eth1/36
+,,,,unknown,208,eth1/4
+,,,,unknown,208,eth1/37
+,,,,unknown,208,eth1/12
+,,,,unknown,208,eth1/18
+,,,,unknown,208,eth1/41
+,,,,removed,208,eth1/51
+,,,,unknown,208,eth1/46
+,,,,unknown,208,eth1/24
+,,,,removed,208,eth1/52
+,,,,unknown,208,eth1/45
+,,,,unknown,208,eth1/27
+,,,,unknown,208,eth1/22
+,,,,unknown,208,eth1/39
+,,,,unknown,208,eth1/43
+,,,,unknown,208,eth1/21
+,,,,unknown,208,eth1/6
+,,,,unknown,208,eth1/16
+,,,,unknown,208,eth1/1
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M17W     ,inserted,208,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0RD     ,inserted,208,eth1/50
+,,,,unknown,208,eth1/8
+,,,,unknown,208,eth1/42
+,,,,unknown,208,eth1/29
+,,,,unknown,208,eth1/10
+,,,,unknown,208,eth1/14
+,,,,unknown,208,eth1/7
+,,,,removed,208,eth1/54
+,,,,unknown,208,eth1/26
+,,,,unknown,208,eth1/25
+,,,,unknown,208,eth1/17
+,,,,unknown,208,eth1/40
+,,,,unknown,208,eth1/31
+,,,,unknown,208,eth1/32
+,,,,unknown,208,eth1/9
+,,,,unknown,208,eth1/20
+,,,,unknown,208,eth1/28
+,,,,unknown,208,eth1/5
+,,,,unknown,208,eth1/15
+,,,,unknown,208,eth1/30
+,,,,unknown,208,eth1/33
+,,,,unknown,208,eth1/47
+,,,,unknown,208,eth1/23
+,,,,unknown,209,eth1/4
+,,,,unknown,209,eth1/37
+,,,,unknown,209,eth1/12
+,,,,unknown,209,eth1/8
+,,,,unknown,209,eth1/42
+,,,,unknown,209,eth1/29
+,,,,unknown,209,eth1/10
+,,,,unknown,209,eth1/14
+,,,,unknown,209,eth1/7
+,,,,removed,209,eth1/54
+,,,,unknown,209,eth1/26
+,,,,unknown,209,eth1/25
+,,,,unknown,209,eth1/17
+,,,,unknown,209,eth1/40
+,,,,unknown,209,eth1/31
+,,,,unknown,209,eth1/32
+,,,,unknown,209,eth1/9
+,,,,unknown,209,eth1/19
+,,,,unknown,209,eth1/3
+,,,,unknown,209,eth1/1
+,,,,unknown,209,eth1/2
+,,,,unknown,209,eth1/38
+,,,,unknown,209,eth1/34
+,,,,unknown,209,eth1/11
+,,,,unknown,209,eth1/44
+,,,,unknown,209,eth1/35
+,,,,unknown,209,eth1/48
+,,,,unknown,209,eth1/36
+,,,,unknown,209,eth1/16
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0YF     ,inserted,209,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M14Z     ,inserted,209,eth1/50
+,,,,unknown,209,eth1/20
+,,,,unknown,209,eth1/28
+,,,,unknown,209,eth1/5
+,,,,unknown,209,eth1/15
+,,,,unknown,209,eth1/30
+,,,,unknown,209,eth1/33
+,,,,unknown,209,eth1/47
+,,,,unknown,209,eth1/23
+,,,,unknown,209,eth1/18
+,,,,unknown,209,eth1/41
+,,,,removed,209,eth1/51
+,,,,unknown,209,eth1/46
+,,,,unknown,209,eth1/24
+,,,,removed,209,eth1/52
+,,,,unknown,209,eth1/45
+,,,,unknown,209,eth1/27
+,,,,unknown,209,eth1/22
+,,,,unknown,209,eth1/39
+,,,,unknown,209,eth1/43
+,,,,unknown,209,eth1/21
+,,,,unknown,209,eth1/6
+,,,,unknown,209,eth1/13
+,,,,removed,209,eth1/53
+,,,,unknown,210,eth1/8
+,,,,unknown,210,eth1/42
+,,,,unknown,210,eth1/29
+,,,,unknown,210,eth1/10
+,,,,unknown,210,eth1/14
+,,,,unknown,210,eth1/7
+,,,,removed,210,eth1/54
+,,,,unknown,210,eth1/26
+,,,,unknown,210,eth1/25
+,,,,unknown,210,eth1/17
+,,,,unknown,210,eth1/40
+,,,,unknown,210,eth1/31
+,,,,unknown,210,eth1/32
+,,,,unknown,210,eth1/9
+,,,,unknown,210,eth1/20
+,,,,unknown,210,eth1/28
+,,,,unknown,210,eth1/5
+,,,,unknown,210,eth1/15
+,,,,unknown,210,eth1/30
+,,,,unknown,210,eth1/33
+,,,,unknown,210,eth1/44
+,,,,unknown,210,eth1/35
+,,,,unknown,210,eth1/48
+,,,,unknown,210,eth1/36
+,,,,unknown,210,eth1/4
+,,,,unknown,210,eth1/37
+,,,,unknown,210,eth1/12
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0R5     ,inserted,210,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0R1     ,inserted,210,eth1/50
+,,,,unknown,210,eth1/47
+,,,,unknown,210,eth1/23
+,,,,unknown,210,eth1/18
+,,,,unknown,210,eth1/41
+,,,,removed,210,eth1/51
+,,,,unknown,210,eth1/46
+,,,,unknown,210,eth1/24
+,,,,removed,210,eth1/52
+,,,,unknown,210,eth1/45
+,,,,unknown,210,eth1/27
+,,,,unknown,210,eth1/22
+,,,,unknown,210,eth1/39
+,,,,unknown,210,eth1/43
+,,,,unknown,210,eth1/21
+,,,,unknown,210,eth1/6
+,,,,unknown,210,eth1/16
+,,,,unknown,210,eth1/13
+,,,,removed,210,eth1/53
+,,,,unknown,210,eth1/19
+,,,,unknown,210,eth1/3
+,,,,unknown,210,eth1/1
+,,,,unknown,210,eth1/2
+,,,,unknown,210,eth1/38
+,,,,unknown,210,eth1/34
+,,,,unknown,210,eth1/11
+,,,,unknown,211,eth1/42
+,,,,unknown,211,eth1/29
+,,,,unknown,211,eth1/10
+,,,,unknown,211,eth1/14
+,,,,removed,211,eth1/54
+,,,,unknown,211,eth1/25
+,,,,unknown,211,eth1/17
+,,,,unknown,211,eth1/40
+,,,,unknown,211,eth1/31
+,,,,unknown,211,eth1/32
+,,,,unknown,211,eth1/20
+,,,,unknown,211,eth1/28
+,,,,unknown,211,eth1/5
+,,,,unknown,211,eth1/30
+,,,,unknown,211,eth1/33
+,,,,unknown,211,eth1/47
+,,,,unknown,211,eth1/18
+,,,,removed,211,eth1/51
+,,,,unknown,211,eth1/46
+,,,,unknown,211,eth1/44
+,,,,unknown,211,eth1/41
+,,,,unknown,211,eth1/7
+,,,,unknown,211,eth1/1
+,,,,unknown,211,eth1/23
+,,,,unknown,211,eth1/22
+,,,,unknown,211,eth1/4
+,,,,unknown,211,eth1/45
+,,,,unknown,211,eth1/21
+,,,,unknown,211,eth1/26
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TF     ,inserted,211,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GU     ,inserted,211,eth1/50
+,,,,unknown,211,eth1/13
+,,,,removed,211,eth1/53
+,,,,unknown,211,eth1/19
+,,,,unknown,211,eth1/3
+,,,,unknown,211,eth1/2
+,,,,unknown,211,eth1/38
+,,,,unknown,211,eth1/34
+,,,,unknown,211,eth1/11
+,,,,unknown,211,eth1/35
+,,,,unknown,211,eth1/48
+,,,,unknown,211,eth1/36
+,,,,unknown,211,eth1/37
+,,,,unknown,211,eth1/12
+,,,,removed,211,eth1/52
+,,,,unknown,211,eth1/27
+,,,,unknown,211,eth1/39
+,,,,unknown,211,eth1/6
+,,,,unknown,211,eth1/16
+,,,,unknown,211,eth1/24
+,,,,unknown,211,eth1/15
+,,,,unknown,211,eth1/8
+,,,,unknown,211,eth1/9
+,,,,unknown,211,eth1/43
+,,,,unknown,212,eth1/4
+,,,,unknown,212,eth1/37
+,,,,unknown,212,eth1/12
+,,,,unknown,212,eth1/8
+,,,,unknown,212,eth1/42
+,,,,unknown,212,eth1/29
+,,,,unknown,212,eth1/10
+,,,,unknown,212,eth1/14
+,,,,unknown,212,eth1/7
+,,,,removed,212,eth1/54
+,,,,unknown,212,eth1/26
+,,,,unknown,212,eth1/25
+,,,,unknown,212,eth1/17
+,,,,unknown,212,eth1/40
+,,,,unknown,212,eth1/31
+,,,,unknown,212,eth1/32
+,,,,unknown,212,eth1/9
+,,,,unknown,212,eth1/19
+,,,,unknown,212,eth1/3
+,,,,unknown,212,eth1/1
+,,,,unknown,212,eth1/2
+,,,,unknown,212,eth1/38
+,,,,unknown,212,eth1/34
+,,,,unknown,212,eth1/11
+,,,,unknown,212,eth1/44
+,,,,unknown,212,eth1/35
+,,,,unknown,212,eth1/48
+,,,,unknown,212,eth1/36
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GX     ,inserted,212,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T9     ,inserted,212,eth1/50
+,,,,unknown,212,eth1/20
+,,,,unknown,212,eth1/28
+,,,,unknown,212,eth1/5
+,,,,unknown,212,eth1/15
+,,,,unknown,212,eth1/30
+,,,,unknown,212,eth1/33
+,,,,unknown,212,eth1/47
+,,,,unknown,212,eth1/23
+,,,,unknown,212,eth1/18
+,,,,unknown,212,eth1/41
+,,,,removed,212,eth1/51
+,,,,unknown,212,eth1/46
+,,,,unknown,212,eth1/24
+,,,,removed,212,eth1/52
+,,,,unknown,212,eth1/45
+,,,,unknown,212,eth1/27
+,,,,unknown,212,eth1/22
+,,,,unknown,212,eth1/39
+,,,,unknown,212,eth1/43
+,,,,unknown,212,eth1/21
+,,,,unknown,212,eth1/6
+,,,,unknown,212,eth1/16
+,,,,unknown,212,eth1/13
+,,,,removed,212,eth1/53
+,,,,removed,213,eth1/51
+,,,,unknown,213,eth1/46
+,,,,unknown,213,eth1/24
+,,,,removed,213,eth1/52
+,,,,unknown,213,eth1/45
+,,,,unknown,213,eth1/27
+,,,,unknown,213,eth1/22
+,,,,unknown,213,eth1/39
+,,,,unknown,213,eth1/43
+,,,,unknown,213,eth1/21
+,,,,unknown,213,eth1/6
+,,,,unknown,213,eth1/16
+,,,,unknown,213,eth1/13
+,,,,unknown,213,eth1/31
+,,,,unknown,213,eth1/32
+,,,,unknown,213,eth1/9
+,,,,unknown,213,eth1/20
+,,,,unknown,213,eth1/28
+,,,,unknown,213,eth1/5
+,,,,unknown,213,eth1/15
+,,,,unknown,213,eth1/30
+,,,,unknown,213,eth1/33
+,,,,unknown,213,eth1/23
+,,,,unknown,213,eth1/18
+,,,,unknown,213,eth1/41
+,,,,unknown,213,eth1/47
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U05T     ,inserted,213,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0HB     ,inserted,213,eth1/50
+,,,,removed,213,eth1/53
+,,,,unknown,213,eth1/19
+,,,,unknown,213,eth1/3
+,,,,unknown,213,eth1/1
+,,,,unknown,213,eth1/2
+,,,,unknown,213,eth1/38
+,,,,unknown,213,eth1/34
+,,,,unknown,213,eth1/11
+,,,,unknown,213,eth1/44
+,,,,unknown,213,eth1/35
+,,,,unknown,213,eth1/48
+,,,,unknown,213,eth1/36
+,,,,unknown,213,eth1/4
+,,,,unknown,213,eth1/37
+,,,,unknown,213,eth1/12
+,,,,unknown,213,eth1/8
+,,,,unknown,213,eth1/42
+,,,,unknown,213,eth1/29
+,,,,unknown,213,eth1/10
+,,,,unknown,213,eth1/14
+,,,,unknown,213,eth1/7
+,,,,removed,213,eth1/54
+,,,,unknown,213,eth1/26
+,,,,unknown,213,eth1/25
+,,,,unknown,213,eth1/17
+,,,,unknown,213,eth1/40
+,,,,unknown,215,eth1/16
+,,,,unknown,215,eth1/13
+,,,,removed,215,eth1/53
+,,,,unknown,215,eth1/19
+,,,,unknown,215,eth1/3
+,,,,unknown,215,eth1/1
+,,,,unknown,215,eth1/2
+,,,,unknown,215,eth1/38
+,,,,unknown,215,eth1/34
+,,,,unknown,215,eth1/11
+,,,,unknown,215,eth1/44
+,,,,unknown,215,eth1/35
+,,,,unknown,215,eth1/48
+,,,,unknown,215,eth1/36
+,,,,unknown,215,eth1/4
+,,,,unknown,215,eth1/37
+,,,,unknown,215,eth1/12
+,,,,unknown,215,eth1/18
+,,,,unknown,215,eth1/41
+,,,,removed,215,eth1/51
+,,,,unknown,215,eth1/46
+,,,,unknown,215,eth1/24
+,,,,removed,215,eth1/52
+,,,,unknown,215,eth1/45
+,,,,unknown,215,eth1/27
+,,,,unknown,215,eth1/22
+,,,,unknown,215,eth1/39
+,,,,unknown,215,eth1/43
+,,,,unknown,215,eth1/21
+,,,,unknown,215,eth1/6
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18N     ,inserted,215,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18L     ,inserted,215,eth1/50
+,,,,unknown,215,eth1/8
+,,,,unknown,215,eth1/42
+,,,,unknown,215,eth1/29
+,,,,unknown,215,eth1/10
+,,,,unknown,215,eth1/14
+,,,,unknown,215,eth1/7
+,,,,removed,215,eth1/54
+,,,,unknown,215,eth1/26
+,,,,unknown,215,eth1/25
+,,,,unknown,215,eth1/17
+,,,,unknown,215,eth1/40
+,,,,unknown,215,eth1/31
+,,,,unknown,215,eth1/32
+,,,,unknown,215,eth1/9
+,,,,unknown,215,eth1/20
+,,,,unknown,215,eth1/28
+,,,,unknown,215,eth1/5
+,,,,unknown,215,eth1/15
+,,,,unknown,215,eth1/30
+,,,,unknown,215,eth1/33
+,,,,unknown,215,eth1/47
+,,,,unknown,215,eth1/23
+,,,,unknown,216,eth1/13
+,,,,removed,216,eth1/53
+,,,,unknown,216,eth1/19
+,,,,unknown,216,eth1/3
+,,,,unknown,216,eth1/1
+,,,,unknown,216,eth1/2
+,,,,unknown,216,eth1/38
+,,,,unknown,216,eth1/34
+,,,,unknown,216,eth1/11
+,,,,unknown,216,eth1/44
+,,,,unknown,216,eth1/35
+,,,,unknown,216,eth1/48
+,,,,unknown,216,eth1/36
+,,,,unknown,216,eth1/4
+,,,,unknown,216,eth1/37
+,,,,unknown,216,eth1/12
+,,,,unknown,216,eth1/18
+,,,,unknown,216,eth1/41
+,,,,removed,216,eth1/51
+,,,,unknown,216,eth1/46
+,,,,unknown,216,eth1/24
+,,,,removed,216,eth1/52
+,,,,unknown,216,eth1/45
+,,,,unknown,216,eth1/27
+,,,,unknown,216,eth1/22
+,,,,unknown,216,eth1/39
+,,,,unknown,216,eth1/43
+,,,,unknown,216,eth1/21
+,,,,unknown,216,eth1/6
+,,,,unknown,216,eth1/16
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18S     ,inserted,216,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18Q     ,inserted,216,eth1/50
+,,,,unknown,216,eth1/8
+,,,,unknown,216,eth1/42
+,,,,unknown,216,eth1/29
+,,,,unknown,216,eth1/10
+,,,,unknown,216,eth1/14
+,,,,unknown,216,eth1/7
+,,,,removed,216,eth1/54
+,,,,unknown,216,eth1/26
+,,,,unknown,216,eth1/25
+,,,,unknown,216,eth1/17
+,,,,unknown,216,eth1/40
+,,,,unknown,216,eth1/31
+,,,,unknown,216,eth1/32
+,,,,unknown,216,eth1/9
+,,,,unknown,216,eth1/20
+,,,,unknown,216,eth1/28
+,,,,unknown,216,eth1/5
+,,,,unknown,216,eth1/15
+,,,,unknown,216,eth1/30
+,,,,unknown,216,eth1/33
+,,,,unknown,216,eth1/47
+,,,,unknown,216,eth1/23
+,,,,unknown,214,eth1/31
+,,,,unknown,214,eth1/32
+,,,,unknown,214,eth1/9
+,,,,unknown,214,eth1/20
+,,,,unknown,214,eth1/28
+,,,,unknown,214,eth1/5
+,,,,unknown,214,eth1/15
+,,,,unknown,214,eth1/30
+,,,,unknown,214,eth1/33
+,,,,unknown,214,eth1/23
+,,,,unknown,214,eth1/18
+,,,,unknown,214,eth1/41
+,,,,removed,214,eth1/51
+,,,,unknown,214,eth1/46
+,,,,unknown,214,eth1/24
+,,,,removed,214,eth1/52
+,,,,unknown,214,eth1/45
+,,,,unknown,214,eth1/27
+,,,,unknown,214,eth1/29
+,,,,unknown,214,eth1/10
+,,,,unknown,214,eth1/14
+,,,,unknown,214,eth1/7
+,,,,removed,214,eth1/54
+,,,,unknown,214,eth1/26
+,,,,unknown,214,eth1/25
+,,,,unknown,214,eth1/17
+,,,,unknown,214,eth1/40
+,,,,unknown,214,eth1/47
+,,,,unknown,214,eth1/6
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18T     ,inserted,214,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0FG     ,inserted,214,eth1/50
+,,,,unknown,214,eth1/22
+,,,,unknown,214,eth1/39
+,,,,unknown,214,eth1/43
+,,,,unknown,214,eth1/21
+,,,,unknown,214,eth1/16
+,,,,unknown,214,eth1/13
+,,,,removed,214,eth1/53
+,,,,unknown,214,eth1/19
+,,,,unknown,214,eth1/3
+,,,,unknown,214,eth1/1
+,,,,unknown,214,eth1/2
+,,,,unknown,214,eth1/38
+,,,,unknown,214,eth1/34
+,,,,unknown,214,eth1/11
+,,,,unknown,214,eth1/44
+,,,,unknown,214,eth1/35
+,,,,unknown,214,eth1/48
+,,,,unknown,214,eth1/36
+,,,,unknown,214,eth1/4
+,,,,unknown,214,eth1/37
+,,,,unknown,214,eth1/12
+,,,,unknown,214,eth1/8
+,,,,unknown,214,eth1/42
+,,,,unknown,217,eth1/8
+,,,,unknown,217,eth1/42
+,,,,unknown,217,eth1/29
+,,,,unknown,217,eth1/10
+,,,,unknown,217,eth1/14
+,,,,unknown,217,eth1/7
+,,,,removed,217,eth1/54
+,,,,unknown,217,eth1/26
+,,,,unknown,217,eth1/25
+,,,,unknown,217,eth1/17
+,,,,unknown,217,eth1/40
+,,,,unknown,217,eth1/31
+,,,,unknown,217,eth1/32
+,,,,unknown,217,eth1/9
+,,,,unknown,217,eth1/20
+,,,,unknown,217,eth1/28
+,,,,unknown,217,eth1/5
+,,,,unknown,217,eth1/15
+,,,,unknown,217,eth1/30
+,,,,unknown,217,eth1/44
+,,,,unknown,217,eth1/35
+,,,,unknown,217,eth1/36
+,,,,unknown,217,eth1/4
+,,,,unknown,217,eth1/37
+,,,,unknown,217,eth1/12
+,,,,unknown,217,eth1/48
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212305AC     ,inserted,217,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0NG     ,inserted,217,eth1/50
+,,,,unknown,217,eth1/33
+,,,,unknown,217,eth1/47
+,,,,unknown,217,eth1/23
+,,,,unknown,217,eth1/18
+,,,,unknown,217,eth1/41
+,,,,removed,217,eth1/51
+,,,,unknown,217,eth1/46
+,,,,unknown,217,eth1/24
+,,,,removed,217,eth1/52
+,,,,unknown,217,eth1/45
+,,,,unknown,217,eth1/27
+,,,,unknown,217,eth1/22
+,,,,unknown,217,eth1/39
+,,,,unknown,217,eth1/43
+,,,,unknown,217,eth1/21
+,,,,unknown,217,eth1/6
+,,,,unknown,217,eth1/16
+,,,,unknown,217,eth1/13
+,,,,removed,217,eth1/53
+,,,,unknown,217,eth1/19
+,,,,unknown,217,eth1/3
+,,,,unknown,217,eth1/1
+,,,,unknown,217,eth1/2
+,,,,unknown,217,eth1/38
+,,,,unknown,217,eth1/34
+,,,,unknown,217,eth1/11
+,,,,unknown,218,eth1/1
+,,,,unknown,218,eth1/2
+,,,,unknown,218,eth1/38
+,,,,unknown,218,eth1/34
+,,,,unknown,218,eth1/11
+,,,,unknown,218,eth1/44
+,,,,unknown,218,eth1/35
+,,,,unknown,218,eth1/36
+,,,,unknown,218,eth1/4
+,,,,unknown,218,eth1/37
+,,,,unknown,218,eth1/12
+,,,,unknown,218,eth1/8
+,,,,unknown,218,eth1/42
+,,,,unknown,218,eth1/29
+,,,,unknown,218,eth1/10
+,,,,unknown,218,eth1/14
+,,,,unknown,218,eth1/45
+,,,,unknown,218,eth1/27
+,,,,unknown,218,eth1/22
+,,,,unknown,218,eth1/39
+,,,,unknown,218,eth1/43
+,,,,unknown,218,eth1/21
+,,,,unknown,218,eth1/6
+,,,,unknown,218,eth1/16
+,,,,unknown,218,eth1/13
+,,,,removed,218,eth1/53
+,,,,unknown,218,eth1/19
+,,,,unknown,218,eth1/3
+,,,,unknown,218,eth1/48
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FNC     ,inserted,218,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0GJ     ,inserted,218,eth1/50
+,,,,unknown,218,eth1/7
+,,,,removed,218,eth1/54
+,,,,unknown,218,eth1/26
+,,,,unknown,218,eth1/25
+,,,,unknown,218,eth1/17
+,,,,unknown,218,eth1/40
+,,,,unknown,218,eth1/31
+,,,,unknown,218,eth1/32
+,,,,unknown,218,eth1/9
+,,,,unknown,218,eth1/20
+,,,,unknown,218,eth1/28
+,,,,unknown,218,eth1/5
+,,,,unknown,218,eth1/15
+,,,,unknown,218,eth1/30
+,,,,unknown,218,eth1/33
+,,,,unknown,218,eth1/47
+,,,,unknown,218,eth1/23
+,,,,unknown,218,eth1/18
+,,,,unknown,218,eth1/41
+,,,,removed,218,eth1/51
+,,,,unknown,218,eth1/46
+,,,,unknown,218,eth1/24
+,,,,removed,218,eth1/52
+,,,,unknown,219,eth1/13
+,,,,unknown,219,eth1/19
+,,,,unknown,219,eth1/3
+,,,,unknown,219,eth1/1
+,,,,unknown,219,eth1/2
+,,,,unknown,219,eth1/38
+,,,,unknown,219,eth1/34
+,,,,unknown,219,eth1/11
+,,,,unknown,219,eth1/44
+,,,,unknown,219,eth1/35
+,,,,unknown,219,eth1/48
+,,,,unknown,219,eth1/36
+,,,,unknown,219,eth1/4
+,,,,unknown,219,eth1/37
+,,,,unknown,219,eth1/12
+,,,,unknown,219,eth1/8
+,,,,unknown,219,eth1/42
+,,,,unknown,219,eth1/29
+,,,,unknown,219,eth1/46
+,,,,unknown,219,eth1/24
+,,,,removed,219,eth1/52
+,,,,unknown,219,eth1/45
+,,,,unknown,219,eth1/27
+,,,,unknown,219,eth1/22
+,,,,unknown,219,eth1/39
+,,,,unknown,219,eth1/43
+,,,,unknown,219,eth1/21
+,,,,unknown,219,eth1/6
+,,,,unknown,219,eth1/16
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FP5     ,inserted,219,eth1/49
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M0H6     ,inserted,219,eth1/50
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00C     ,inserted,219,eth1/53
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GR     ,inserted,219,eth1/54
+,,,,unknown,219,eth1/10
+,,,,unknown,219,eth1/14
+,,,,unknown,219,eth1/7
+,,,,unknown,219,eth1/26
+,,,,unknown,219,eth1/25
+,,,,unknown,219,eth1/17
+,,,,unknown,219,eth1/40
+,,,,unknown,219,eth1/31
+,,,,unknown,219,eth1/32
+,,,,unknown,219,eth1/9
+,,,,unknown,219,eth1/20
+,,,,unknown,219,eth1/28
+,,,,unknown,219,eth1/5
+,,,,unknown,219,eth1/15
+,,,,unknown,219,eth1/30
+,,,,unknown,219,eth1/33
+,,,,unknown,219,eth1/47
+,,,,unknown,219,eth1/23
+,,,,unknown,219,eth1/18
+,,,,unknown,219,eth1/41
+,,,,removed,219,eth1/51
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339AAL     ,inserted,221,eth1/6
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4SY     ,inserted,221,eth1/43
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1RB     ,inserted,221,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2232N68W     ,inserted,221,eth1/50
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JP     ,inserted,221,eth1/33
+,,,,removed,221,eth1/47
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399G7     ,inserted,221,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339AAK     ,inserted,221,eth1/18
+,,,,removed,221,eth1/51
+,,,,removed,221,eth1/46
+,,,,removed,221,eth1/52
+,,,,removed,221,eth1/45
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GS     ,inserted,221,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J1     ,inserted,221,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HR     ,inserted,221,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339657     ,inserted,221,eth1/13
+,,,,removed,221,eth1/53
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BT     ,inserted,221,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398C7     ,inserted,221,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964X     ,inserted,221,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964B     ,inserted,221,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GK     ,inserted,221,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BL     ,inserted,221,eth1/11
+,,,,removed,221,eth1/44
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GU     ,inserted,221,eth1/35
+,,,,removed,221,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398C0     ,inserted,221,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HE     ,inserted,221,eth1/24
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4VB     ,inserted,221,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H5     ,inserted,221,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JA     ,inserted,221,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KD     ,inserted,221,eth1/39
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4TE     ,inserted,221,eth1/40
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4SE     ,inserted,221,eth1/41
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4TC     ,inserted,221,eth1/42
+,,,,removed,221,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339AAP     ,inserted,221,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BA     ,inserted,221,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GW     ,inserted,221,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964K     ,inserted,221,eth1/10
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398B9     ,inserted,221,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965B     ,inserted,221,eth1/7
+,,,,removed,221,eth1/54
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H4     ,inserted,221,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HL     ,inserted,221,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339642     ,inserted,221,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JW     ,inserted,221,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HA     ,inserted,221,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339651     ,inserted,221,eth1/9
+,,,,removed,221,eth1/20
+,,,,removed,221,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964Z     ,inserted,221,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964G     ,inserted,221,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JE     ,inserted,221,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964R     ,inserted,222,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964P     ,inserted,222,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964W     ,inserted,222,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BS     ,inserted,222,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339644     ,inserted,222,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339655     ,inserted,222,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BK     ,inserted,222,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BW     ,inserted,222,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339654     ,inserted,222,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964U     ,inserted,222,eth1/10
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4YR     ,inserted,222,eth1/43
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0EG     ,inserted,222,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0L9     ,inserted,222,eth1/50
+,,,,removed,222,eth1/54
+,,,,removed,222,eth1/47
+,,,,removed,222,eth1/51
+,,,,removed,222,eth1/52
+,,,,removed,222,eth1/45
+,,,,removed,222,eth1/53
+,,,,removed,222,eth1/44
+,,,,removed,222,eth1/46
+,,,,removed,222,eth1/48
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339648     ,inserted,222,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339645     ,inserted,222,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339650     ,inserted,222,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339643     ,inserted,222,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BM     ,inserted,222,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398C9     ,inserted,222,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BH     ,inserted,222,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BC     ,inserted,222,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398B7     ,inserted,222,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BF     ,inserted,222,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965T     ,inserted,222,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964N     ,inserted,222,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964L     ,inserted,222,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BB     ,inserted,222,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339AAH     ,inserted,222,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965J     ,inserted,222,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965F     ,inserted,222,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339658     ,inserted,222,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339659     ,inserted,222,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BR     ,inserted,222,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BE     ,inserted,222,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BP     ,inserted,222,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965K     ,inserted,222,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD22339AAM     ,inserted,222,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965N     ,inserted,222,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964E     ,inserted,222,eth1/36
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4YN     ,inserted,222,eth1/37
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4YX     ,inserted,222,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233964F     ,inserted,222,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965A     ,inserted,222,eth1/40
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4YV     ,inserted,222,eth1/41
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4YC     ,inserted,222,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GX     ,inserted,223,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JG     ,inserted,223,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GT     ,inserted,223,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HV     ,inserted,223,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K0     ,inserted,223,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J3     ,inserted,223,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GZ     ,inserted,223,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K5     ,inserted,223,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K2     ,inserted,223,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K6     ,inserted,223,eth1/10
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4VF     ,inserted,223,eth1/43
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4UU     ,inserted,223,eth1/44
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0S4     ,inserted,223,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2232N68C     ,inserted,223,eth1/50
+,,,,removed,223,eth1/53
+,,,,removed,223,eth1/48
+,,,,removed,223,eth1/54
+,,,,removed,223,eth1/33
+,,,,removed,223,eth1/47
+,,,,removed,223,eth1/51
+,,,,removed,223,eth1/46
+,,,,removed,223,eth1/52
+,,,,removed,223,eth1/45
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JZ     ,inserted,223,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K4     ,inserted,223,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HZ     ,inserted,223,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HM     ,inserted,223,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KG     ,inserted,223,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JB     ,inserted,223,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HW     ,inserted,223,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KF     ,inserted,223,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GH     ,inserted,223,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K9     ,inserted,223,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K8     ,inserted,223,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H8     ,inserted,223,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K1     ,inserted,223,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J8     ,inserted,223,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GF     ,inserted,223,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H7     ,inserted,223,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H2     ,inserted,223,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JD     ,inserted,223,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K3     ,inserted,223,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JL     ,inserted,223,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HJ     ,inserted,223,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HB     ,inserted,223,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HT     ,inserted,223,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HF     ,inserted,223,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HS     ,inserted,223,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GV     ,inserted,223,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GD     ,inserted,223,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KE     ,inserted,223,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JX     ,inserted,223,eth1/40
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4VN     ,inserted,223,eth1/41
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4VK     ,inserted,223,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JY     ,inserted,224,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J0     ,inserted,224,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399G8     ,inserted,224,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HX     ,inserted,224,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JK     ,inserted,224,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HG     ,inserted,224,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JS     ,inserted,224,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JC     ,inserted,224,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JT     ,inserted,224,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JJ     ,inserted,224,eth1/10
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1JA     ,inserted,224,eth1/43
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1K2     ,inserted,224,eth1/44
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K4T5     ,inserted,224,eth1/45
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R7     ,inserted,224,eth1/49
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1PY     ,inserted,224,eth1/50
+,,,,removed,224,eth1/33
+,,,,removed,224,eth1/47
+,,,,removed,224,eth1/51
+,,,,removed,224,eth1/52
+,,,,removed,224,eth1/53
+,,,,removed,224,eth1/54
+,,,,removed,224,eth1/46
+,,,,removed,224,eth1/34
+,,,,removed,224,eth1/48
+,,,,removed,224,eth1/36
+,,,,removed,224,eth1/38
+,,,,removed,224,eth1/40
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JF     ,inserted,224,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HH     ,inserted,224,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J9     ,inserted,224,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KH     ,inserted,224,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JN     ,inserted,224,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399KA     ,inserted,224,eth1/16
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GA     ,inserted,224,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HY     ,inserted,224,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HN     ,inserted,224,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HU     ,inserted,224,eth1/20
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399G9     ,inserted,224,eth1/21
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GN     ,inserted,224,eth1/22
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JU     ,inserted,224,eth1/23
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JR     ,inserted,224,eth1/24
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HC     ,inserted,224,eth1/25
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H6     ,inserted,224,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GE     ,inserted,224,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J5     ,inserted,224,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GB     ,inserted,224,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HK     ,inserted,224,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399JV     ,inserted,224,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399K7     ,inserted,224,eth1/32
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1K4     ,inserted,224,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H9     ,inserted,224,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399HD     ,inserted,224,eth1/39
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1JG     ,inserted,224,eth1/41
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1JB     ,inserted,224,eth1/42
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399H3     ,inserted,225,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233965G     ,inserted,225,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A0     ,inserted,225,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U006     ,inserted,225,eth1/50
+,,,,removed,225,eth1/23
+,,,,removed,225,eth1/51
+,,,,removed,225,eth1/46
+,,,,removed,225,eth1/24
+,,,,removed,225,eth1/52
+,,,,removed,225,eth1/45
+,,,,removed,225,eth1/22
+,,,,removed,225,eth1/43
+,,,,removed,225,eth1/21
+,,,,removed,225,eth1/6
+,,,,removed,225,eth1/16
+,,,,removed,225,eth1/53
+,,,,removed,225,eth1/44
+,,,,removed,225,eth1/48
+,,,,removed,225,eth1/42
+,,,,removed,225,eth1/54
+,,,,removed,225,eth1/26
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BG     ,inserted,225,eth1/4
+,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GR     ,removed,225,eth1/3
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1UM     ,inserted,225,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUT     ,inserted,225,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHY     ,inserted,225,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHE     ,inserted,225,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DWDC     ,inserted,225,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFV     ,inserted,225,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFJ     ,inserted,225,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DCFC     ,inserted,225,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRMF     ,inserted,225,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2127DWD9     ,inserted,225,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRMG     ,inserted,225,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHA     ,inserted,225,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHX     ,inserted,225,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLTV     ,inserted,225,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUW     ,inserted,225,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUX     ,inserted,225,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BX     ,inserted,225,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394UB     ,inserted,225,eth1/40
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233931S     ,inserted,225,eth1/41
+,,,,removed,225,eth1/5
+,,,,removed,225,eth1/47
+,,,,removed,225,eth1/25
+,,,,removed,225,eth1/20
+,,,,removed,225,eth1/8
+,,,,removed,225,eth1/9
+,,,,removed,225,eth1/10
+,,,,removed,225,eth1/7
+,,,,removed,225,eth1/14
+,,,,removed,225,eth1/13
+,,,,removed,225,eth1/12
+,,,,removed,225,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399J2     ,inserted,226,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GC     ,inserted,226,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3AG     ,inserted,226,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U19C     ,inserted,226,eth1/50
+,,,,removed,226,eth1/53
+,,,,removed,226,eth1/44
+,,,,removed,226,eth1/48
+,,,,removed,226,eth1/42
+,,,,removed,226,eth1/54
+,,,,removed,226,eth1/26
+,,,,removed,226,eth1/25
+,,,,removed,226,eth1/40
+,,,,removed,226,eth1/20
+,,,,removed,226,eth1/5
+,,,,removed,226,eth1/47
+,,,,removed,226,eth1/23
+,,,,removed,226,eth1/41
+,,,,removed,226,eth1/51
+,,,,removed,226,eth1/46
+,,,,removed,226,eth1/8
+,,,,removed,226,eth1/9
+,,,,removed,226,eth1/10
+,,,,removed,226,eth1/7
+,,,,removed,226,eth1/14
+,,,,removed,226,eth1/13
+,,,,removed,226,eth1/12
+,,,,removed,226,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GM     ,inserted,226,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223399GL     ,inserted,226,eth1/4
+10Gbase-LR,CISCO-AVAGO     ,SFCT-739SMZ     ,AVD2233K1TU     ,inserted,226,eth1/15
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRH6     ,inserted,226,eth1/17
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DLUK     ,inserted,226,eth1/18
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRJ1     ,inserted,226,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHT     ,inserted,226,eth1/27
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRJ0     ,inserted,226,eth1/28
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHS     ,inserted,226,eth1/29
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHV     ,inserted,226,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRH9     ,inserted,226,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRM1     ,inserted,226,eth1/32
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRHF     ,inserted,226,eth1/33
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2124DRH8     ,inserted,226,eth1/34
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD2233932B     ,inserted,226,eth1/35
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398BV     ,inserted,226,eth1/36
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223398C1     ,inserted,226,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS1 ,AVD223394U4     ,inserted,226,eth1/38
+,,,,removed,226,eth1/6
+,,,,removed,226,eth1/16
+,,,,removed,226,eth1/24
+,,,,removed,226,eth1/52
+,,,,removed,226,eth1/45
+,,,,removed,226,eth1/22
+,,,,removed,226,eth1/39
+,,,,removed,226,eth1/43
+,,,,removed,226,eth1/21
+,,,,removed,298,eth1/17
+,,,,removed,298,eth1/40
+,,,,removed,298,eth1/31
+,,,,removed,298,eth1/32
+,,,,removed,298,eth1/9
+,,,,removed,298,eth1/20
+,,,,removed,298,eth1/28
+,,,,removed,298,eth1/5
+,,,,removed,298,eth1/15
+,,,,removed,298,eth1/30
+,,,,removed,298,eth1/33
+,,,,removed,298,eth1/47
+,,,,removed,298,eth1/23
+,,,,removed,298,eth1/18
+,,,,removed,298,eth1/41
+,,,,removed,298,eth1/44
+,,,,removed,298,eth1/35
+,,,,removed,298,eth1/48
+,,,,removed,298,eth1/36
+,,,,removed,298,eth1/4
+,,,,removed,298,eth1/37
+,,,,removed,298,eth1/12
+,,,,removed,298,eth1/8
+,,,,removed,298,eth1/42
+,,,,removed,298,eth1/29
+,,,,removed,298,eth1/10
+,,,,removed,298,eth1/14
+,,,,removed,298,eth1/7
+,,,,removed,298,eth1/26
+,,,,removed,298,eth1/25
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GP     ,inserted,298,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U096     ,inserted,298,eth1/50
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212301PG     ,inserted,298,eth1/51
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS2123045N     ,inserted,298,eth1/54
+,,,,removed,298,eth1/46
+,,,,removed,298,eth1/24
+,,,,removed,298,eth1/52
+,,,,removed,298,eth1/45
+,,,,removed,298,eth1/27
+,,,,removed,298,eth1/22
+,,,,removed,298,eth1/39
+,,,,removed,298,eth1/43
+,,,,removed,298,eth1/21
+,,,,removed,298,eth1/6
+,,,,removed,298,eth1/16
+,,,,removed,298,eth1/13
+,,,,removed,298,eth1/53
+,,,,removed,298,eth1/19
+,,,,removed,298,eth1/3
+,,,,removed,298,eth1/1
+,,,,removed,298,eth1/2
+,,,,removed,298,eth1/38
+,,,,removed,298,eth1/34
+,,,,removed,298,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA8     ,inserted,227,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA4     ,inserted,227,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAC     ,inserted,227,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAM     ,inserted,227,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAA     ,inserted,227,eth1/15
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8MH    ,inserted,227,eth1/17
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94L9    ,inserted,227,eth1/18
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20JY    ,inserted,227,eth1/21
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20J8    ,inserted,227,eth1/22
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8YB    ,inserted,227,eth1/25
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94TL    ,inserted,227,eth1/26
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8J9    ,inserted,227,eth1/29
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8J6    ,inserted,227,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAU     ,inserted,227,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9J     ,inserted,227,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9U     ,inserted,227,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA1     ,inserted,227,eth1/40
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1V     ,inserted,227,eth1/41
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8N2    ,inserted,227,eth1/19
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20JB    ,inserted,227,eth1/23
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94RG    ,inserted,227,eth1/27
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8J5    ,inserted,227,eth1/31
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG2S     ,inserted,227,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAJ     ,inserted,227,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG3B     ,inserted,227,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1J     ,inserted,227,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAL     ,inserted,227,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG8V     ,inserted,227,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA7     ,inserted,227,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9G     ,inserted,227,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG95     ,inserted,227,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA6     ,inserted,227,eth1/10
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EY     ,inserted,227,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EW     ,inserted,227,eth1/51
+,,,,removed,227,eth1/53
+,,,,removed,227,eth1/34
+,,,,removed,227,eth1/44
+,,,,removed,227,eth1/35
+,,,,removed,227,eth1/48
+,,,,removed,227,eth1/36
+,,,,removed,227,eth1/50
+,,,,removed,227,eth1/42
+,,,,removed,227,eth1/54
+,,,,removed,227,eth1/32
+,,,,removed,227,eth1/20
+,,,,removed,227,eth1/28
+,,,,removed,227,eth1/33
+,,,,removed,227,eth1/47
+,,,,removed,227,eth1/46
+,,,,removed,227,eth1/24
+,,,,removed,227,eth1/52
+,,,,removed,227,eth1/45
+,,,,removed,227,eth1/43
+,,,,removed,227,eth1/16
+,,,,removed,299,eth1/17
+,,,,removed,299,eth1/40
+,,,,removed,299,eth1/31
+,,,,removed,299,eth1/32
+,,,,removed,299,eth1/9
+,,,,removed,299,eth1/20
+,,,,removed,299,eth1/28
+,,,,removed,299,eth1/5
+,,,,removed,299,eth1/15
+,,,,removed,299,eth1/30
+,,,,removed,299,eth1/33
+,,,,removed,299,eth1/47
+,,,,removed,299,eth1/23
+,,,,removed,299,eth1/18
+,,,,removed,299,eth1/41
+,,,,removed,299,eth1/44
+,,,,removed,299,eth1/35
+,,,,removed,299,eth1/48
+,,,,removed,299,eth1/36
+,,,,removed,299,eth1/4
+,,,,removed,299,eth1/37
+,,,,removed,299,eth1/12
+,,,,removed,299,eth1/8
+,,,,removed,299,eth1/42
+,,,,removed,299,eth1/29
+,,,,removed,299,eth1/10
+,,,,removed,299,eth1/14
+,,,,removed,299,eth1/7
+,,,,removed,299,eth1/26
+,,,,removed,299,eth1/25
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U1EF     ,inserted,299,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U1E3     ,inserted,299,eth1/50
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303EC     ,inserted,299,eth1/51
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160EYP     ,inserted,299,eth1/54
+,,,,removed,299,eth1/46
+,,,,removed,299,eth1/24
+,,,,removed,299,eth1/52
+,,,,removed,299,eth1/45
+,,,,removed,299,eth1/27
+,,,,removed,299,eth1/22
+,,,,removed,299,eth1/39
+,,,,removed,299,eth1/43
+,,,,removed,299,eth1/21
+,,,,removed,299,eth1/6
+,,,,removed,299,eth1/16
+,,,,removed,299,eth1/13
+,,,,removed,299,eth1/53
+,,,,removed,299,eth1/19
+,,,,removed,299,eth1/3
+,,,,removed,299,eth1/1
+,,,,removed,299,eth1/2
+,,,,removed,299,eth1/38
+,,,,removed,299,eth1/34
+,,,,removed,299,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAH     ,inserted,228,eth1/11
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG96     ,inserted,228,eth1/12
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG8W     ,inserted,228,eth1/13
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAB     ,inserted,228,eth1/14
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG90     ,inserted,228,eth1/15
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9B94PK    ,inserted,228,eth1/17
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20JD    ,inserted,228,eth1/18
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20JP    ,inserted,228,eth1/21
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20JF    ,inserted,228,eth1/22
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BB65B    ,inserted,228,eth1/25
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT901    ,inserted,228,eth1/26
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT921    ,inserted,228,eth1/29
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8T9    ,inserted,228,eth1/30
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG9R     ,inserted,228,eth1/37
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1F     ,inserted,228,eth1/38
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG91     ,inserted,228,eth1/39
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBX     ,inserted,228,eth1/40
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1T     ,inserted,228,eth1/41
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9C20J9    ,inserted,228,eth1/23
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8RE    ,inserted,228,eth1/27
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8NB    ,inserted,228,eth1/31
+SFP-H10GB-CU5M,IBM-Amphenol    ,95Y1634-N31295U ,YL10FY9BT8YH    ,inserted,228,eth1/19
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1N     ,inserted,228,eth1/1
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1Y     ,inserted,228,eth1/2
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1M     ,inserted,228,eth1/3
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1Z     ,inserted,228,eth1/4
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DG1S     ,inserted,228,eth1/5
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGA5     ,inserted,228,eth1/6
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAX     ,inserted,228,eth1/7
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAW     ,inserted,228,eth1/8
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGBY     ,inserted,228,eth1/9
+10Gbase-SR,CISCO-AVAGO     ,SFBR-709SMZ-CS2 ,AVD2309DGAK     ,inserted,228,eth1/10
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EN     ,inserted,228,eth1/49
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EZ     ,inserted,228,eth1/51
+,,,,removed,228,eth1/53
+,,,,removed,228,eth1/34
+,,,,removed,228,eth1/44
+,,,,removed,228,eth1/35
+,,,,removed,228,eth1/48
+,,,,removed,228,eth1/36
+,,,,removed,228,eth1/50
+,,,,removed,228,eth1/42
+,,,,removed,228,eth1/54
+,,,,removed,228,eth1/32
+,,,,removed,228,eth1/20
+,,,,removed,228,eth1/28
+,,,,removed,228,eth1/33
+,,,,removed,228,eth1/47
+,,,,removed,228,eth1/46
+,,,,removed,228,eth1/24
+,,,,removed,228,eth1/52
+,,,,removed,228,eth1/45
+,,,,removed,228,eth1/43
+,,,,removed,228,eth1/16
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PJ7     ,inserted,402,eth1/1
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304Q6     ,inserted,402,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00A     ,inserted,402,eth1/3
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00E     ,inserted,402,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U1EB     ,inserted,402,eth1/5
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A6     ,inserted,402,eth1/6
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1PM     ,inserted,402,eth1/7
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2236N01J     ,inserted,402,eth1/8
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5ED     ,inserted,402,eth1/9
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0EA     ,inserted,402,eth1/10
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T4     ,inserted,402,eth1/11
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3AD     ,inserted,402,eth1/12
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T3     ,inserted,402,eth1/13
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TA     ,inserted,402,eth1/14
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GV     ,inserted,402,eth1/15
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U33P     ,inserted,402,eth1/16
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304S1     ,inserted,402,eth1/17
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304RC     ,inserted,402,eth1/18
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303HX     ,inserted,402,eth1/19
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303GP     ,inserted,402,eth1/20
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R0     ,inserted,402,eth1/21
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U2P1     ,inserted,402,eth1/22
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N02J     ,inserted,402,eth1/23
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N02M     ,inserted,402,eth1/24
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GH     ,inserted,402,eth1/25
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N031     ,inserted,402,eth1/26
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N04E     ,inserted,402,eth1/27
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N04M     ,inserted,402,eth1/28
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N050     ,inserted,402,eth1/29
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N049     ,inserted,402,eth1/30
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212302QG     ,inserted,402,eth1/31
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A1     ,inserted,402,eth1/32
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02D     ,inserted,402,eth2/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02R     ,inserted,402,eth2/2
+,,,,removed,402,eth2/3
+,,,,removed,402,eth2/4
+,,,,removed,402,eth2/5
+,,,,removed,402,eth2/6
+,,,,removed,402,eth2/7
+,,,,removed,402,eth2/8
+,,,,removed,402,eth2/9
+,,,,removed,402,eth2/10
+,,,,removed,402,eth2/11
+,,,,removed,402,eth2/12
+,,,,removed,402,eth2/13
+,,,,removed,402,eth2/14
+,,,,removed,402,eth2/15
+,,,,removed,402,eth2/16
+,,,,removed,402,eth2/17
+,,,,removed,402,eth2/18
+,,,,removed,402,eth2/19
+,,,,removed,402,eth2/20
+,,,,removed,402,eth2/21
+,,,,removed,402,eth2/22
+,,,,removed,402,eth2/23
+,,,,removed,402,eth2/24
+,,,,removed,402,eth2/25
+,,,,removed,402,eth2/26
+,,,,removed,402,eth2/27
+,,,,removed,402,eth2/28
+,,,,removed,402,eth2/29
+,,,,removed,402,eth2/30
+,,,,removed,402,eth2/31
+,,,,removed,402,eth2/32
+,,,,removed,401,eth2/3
+,,,,removed,401,eth2/4
+,,,,removed,401,eth2/5
+,,,,removed,401,eth2/6
+,,,,removed,401,eth2/7
+,,,,removed,401,eth2/8
+,,,,removed,401,eth2/9
+,,,,removed,401,eth2/10
+,,,,removed,401,eth2/11
+,,,,removed,401,eth2/12
+,,,,removed,401,eth2/13
+,,,,removed,401,eth2/14
+,,,,removed,401,eth2/15
+,,,,removed,401,eth2/16
+,,,,removed,401,eth2/17
+,,,,removed,401,eth2/18
+,,,,removed,401,eth2/19
+,,,,removed,401,eth2/20
+,,,,removed,401,eth2/21
+,,,,removed,401,eth2/22
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160EUB     ,inserted,401,eth2/23
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160EZE     ,inserted,401,eth2/24
+,,,,removed,401,eth2/25
+,,,,removed,401,eth2/26
+,,,,removed,401,eth2/27
+,,,,removed,401,eth2/28
+,,,,removed,401,eth2/29
+,,,,removed,401,eth2/30
+,,,,removed,401,eth2/31
+,,,,removed,401,eth2/32
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02V     ,inserted,401,eth2/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2418U02X     ,inserted,401,eth2/2
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212302F5     ,inserted,401,eth1/1
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160EYB     ,inserted,401,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A2     ,inserted,401,eth1/3
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GW     ,inserted,401,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GS     ,inserted,401,eth1/5
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H7     ,inserted,401,eth1/6
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0EM     ,inserted,401,eth1/7
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TR     ,inserted,401,eth1/8
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0LJ     ,inserted,401,eth1/9
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H8     ,inserted,401,eth1/10
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H6     ,inserted,401,eth1/11
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GN     ,inserted,401,eth1/12
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U056     ,inserted,401,eth1/13
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TK     ,inserted,401,eth1/14
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R6     ,inserted,401,eth1/15
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2236N023     ,inserted,401,eth1/16
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A5     ,inserted,401,eth1/17
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U009     ,inserted,401,eth1/18
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3A3     ,inserted,401,eth1/19
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U008     ,inserted,401,eth1/20
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U00B     ,inserted,401,eth1/21
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0HA     ,inserted,401,eth1/22
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N039     ,inserted,401,eth1/23
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1H1     ,inserted,401,eth1/24
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1H5     ,inserted,401,eth1/25
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N034     ,inserted,401,eth1/26
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1J0     ,inserted,401,eth1/27
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1GF     ,inserted,401,eth1/28
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N1BL     ,inserted,401,eth1/29
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS3 ,FTF2342N04X     ,inserted,401,eth1/30
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212303CQ     ,inserted,401,eth1/31
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R2     ,inserted,401,eth1/32
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EQ     ,inserted,403,eth2/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5F1     ,inserted,403,eth2/2
+,,,,removed,403,eth2/3
+,,,,removed,403,eth2/4
+,,,,removed,403,eth2/5
+,,,,removed,403,eth2/6
+,,,,removed,403,eth2/7
+,,,,removed,403,eth2/8
+,,,,removed,403,eth2/9
+,,,,removed,403,eth2/10
+,,,,removed,403,eth2/11
+,,,,removed,403,eth2/12
+,,,,removed,403,eth2/13
+,,,,removed,403,eth2/14
+,,,,removed,403,eth2/15
+,,,,removed,403,eth2/16
+,,,,removed,403,eth2/17
+,,,,removed,403,eth2/18
+,,,,removed,403,eth2/19
+,,,,removed,403,eth2/20
+,,,,removed,403,eth2/21
+,,,,removed,403,eth2/22
+,,,,removed,403,eth2/23
+,,,,removed,403,eth2/24
+,,,,removed,403,eth2/25
+,,,,removed,403,eth2/26
+,,,,removed,403,eth2/27
+,,,,removed,403,eth2/28
+,,,,removed,403,eth2/29
+,,,,removed,403,eth2/30
+,,,,removed,403,eth2/31
+,,,,removed,403,eth2/32
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PHB     ,inserted,403,eth1/1
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PDY     ,inserted,403,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TQ     ,inserted,403,eth1/3
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U39Y     ,inserted,403,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T0     ,inserted,403,eth1/5
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2120U0G9     ,inserted,403,eth1/6
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FUA     ,inserted,403,eth1/7
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FYG     ,inserted,403,eth1/8
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TC     ,inserted,403,eth1/9
+,,,,removed,403,eth1/10
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304AC     ,inserted,403,eth1/11
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18D     ,inserted,403,eth1/12
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0SX     ,inserted,403,eth1/13
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H4     ,inserted,403,eth1/14
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TH     ,inserted,403,eth1/15
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U1E2     ,inserted,403,eth1/16
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T2     ,inserted,403,eth1/17
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18U     ,inserted,403,eth1/18
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FQY     ,inserted,403,eth1/19
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS2123048U     ,inserted,403,eth1/20
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FW1     ,inserted,403,eth1/21
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304CQ     ,inserted,403,eth1/22
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FT4     ,inserted,403,eth1/23
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FRY     ,inserted,403,eth1/24
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0GZ     ,inserted,403,eth1/25
+,,,,removed,403,eth1/26
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230L68     ,inserted,403,eth1/27
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0SY     ,inserted,403,eth1/28
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1RA     ,inserted,403,eth1/29
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R8     ,inserted,403,eth1/30
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0S7     ,inserted,403,eth1/31
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0M1     ,inserted,403,eth1/32
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5EC     ,inserted,404,eth2/1
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2310U5F0     ,inserted,404,eth2/2
+,,,,removed,404,eth2/3
+,,,,removed,404,eth2/4
+,,,,removed,404,eth2/5
+,,,,removed,404,eth2/6
+,,,,removed,404,eth2/7
+,,,,removed,404,eth2/8
+,,,,removed,404,eth2/9
+,,,,removed,404,eth2/10
+,,,,removed,404,eth2/11
+,,,,removed,404,eth2/12
+,,,,removed,404,eth2/13
+,,,,removed,404,eth2/14
+,,,,removed,404,eth2/15
+,,,,removed,404,eth2/16
+,,,,removed,404,eth2/17
+,,,,removed,404,eth2/18
+,,,,removed,404,eth2/19
+,,,,removed,404,eth2/20
+,,,,removed,404,eth2/21
+,,,,removed,404,eth2/22
+,,,,removed,404,eth2/23
+,,,,removed,404,eth2/24
+,,,,removed,404,eth2/25
+,,,,removed,404,eth2/26
+,,,,removed,404,eth2/27
+,,,,removed,404,eth2/28
+,,,,removed,404,eth2/29
+,,,,removed,404,eth2/30
+,,,,removed,404,eth2/31
+,,,,removed,404,eth2/32
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160PH2     ,inserted,404,eth1/1
+QSFP-40G-ER4,CISCO-FINISAR   ,FTL4E1QM1C-C1   ,FNS21160F1D     ,inserted,404,eth1/2
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U2P8     ,inserted,404,eth1/3
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0TJ     ,inserted,404,eth1/4
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H9     ,inserted,404,eth1/5
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U3AF     ,inserted,404,eth1/6
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FV3     ,inserted,404,eth1/7
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304NY     ,inserted,404,eth1/8
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U39Z     ,inserted,404,eth1/9
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U1X4     ,inserted,404,eth1/10
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS203404V9     ,inserted,404,eth1/11
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212301QB     ,inserted,404,eth1/12
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0SZ     ,inserted,404,eth1/13
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U007     ,inserted,404,eth1/14
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U0H5     ,inserted,404,eth1/15
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U05F     ,inserted,404,eth1/16
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2122U0T8     ,inserted,404,eth1/17
+QSFP-40GE-LR4,CISCO-AVAGO     ,SFCT-88ESPZ-CS1 ,AVM2120M18K     ,inserted,404,eth1/18
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304BS     ,inserted,404,eth1/19
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304CE     ,inserted,404,eth1/20
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS212304BR     ,inserted,404,eth1/21
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS2123049L     ,inserted,404,eth1/22
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230486     ,inserted,404,eth1/23
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS21230FXU     ,inserted,404,eth1/24
+,,,,removed,404,eth1/25
+,,,,removed,404,eth1/26
+QSFP-40GE-LR4,CISCO-FINISAR   ,FTL4C1QE1C-C5   ,FNS20330TVA     ,inserted,404,eth1/27
+QSFP-40G-SR-BD,CISCO-AVAGO     ,AFBR-79EBPZ-CS2 ,AVM2123U195     ,inserted,404,eth1/28
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1R5     ,inserted,404,eth1/29
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1PU     ,inserted,404,eth1/30
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2234N0L5     ,inserted,404,eth1/31
+QSFP-40/100-SRBD,CISCO-FOIT      ,SFBR-89BDDZ-CS2 ,FOF2233N1MT     ,inserted,404,eth1/32
