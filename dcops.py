@@ -7,6 +7,7 @@ from get_fault_details import main as fd
 from get_faults_history import main as fh
 from get_events_history import main as eh
 from get_sfp_details import main as sd
+from get_rogue_eps import main as re
 
 def main():
     
@@ -21,6 +22,7 @@ def main():
         print('2 : Faults related')
         print('3 : Events related')
         print('4 : Inventory related')
+        print('5 : Rogue EP related')        
         print('0 : Exit')
         main_operation = input('\nChoose number to select type of operation : ')
 
@@ -91,5 +93,19 @@ def main():
             
             if inventory_ops == '1':
                 sd()
+        
+        if main_operation == '5':
+
+            print('1 : Get Rogue EPs')
+            
+            print('0 : Exit')
+
+            rogue_ops = input('\nChoose number to select type of operation : ')
+
+            if rogue_ops == '0':
+                break
+            
+            if rogue_ops == '1':
+                re()
 if __name__ == '__main__':
     main()
