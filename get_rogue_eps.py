@@ -8,6 +8,51 @@ from datetime import datetime
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
 
 
+def get_rogue_configs(aci_cookie, apic_ip):
+    ######### GET rogue instances ##############
+    # GET EP details
+    
+    url = f"{apic_ip}/api/node/mo/uni/infra/epCtrlP-default.json?rsp-subtree-include=full-deployment"
+    
+    
+    headers = {
+        'cache-control': "no-cache"
+    }
+
+    get_response = requests.get(
+        url, headers=headers, cookies=aci_cookie, verify=False).json()
+
+    return get_response
+
+def configureRogueEpSetting(aci_cookie, apic_ip,setValue):
+    """ 
+    Fetches EP details using API call
+
+    Parameters:
+
+    aci_cookie (dict): Session dictionary
+    apic_ip (string): APIC controller ip address
+    mac_address (string): (Optional) default is None. It searches specific mac-address
+
+    Returns:
+    dict: API response in JSON
+
+    """
+
+    url = f'{apic_ip}/api/node/mo/uni/infra/epCtrlP-default.json'
+
+    headers = {
+        'cache-control': "no-cache"
+    }
+
+    payload = {"epControlP":{"attributes":{"dn":"uni/infra/epCtrlP-default","adminSt":f"{setValue}"},"children":[]}}
+    
+    get_response = requests.post(
+        url, headers=headers, cookies=aci_cookie, verify=False,data=json.dumps(payload)).json()
+
+    return get_response
+
+
 def clearRogueEp(aci_cookie, apic_ip,nodeId):
     """ 
     Fetches EP details using API call
@@ -142,6 +187,7 @@ def main():
     main_operations_list = ['Exit',
                             'Print Rogue EP details on screen',
                             'Clear Rogue EP from Leafs',
+                            'Rogue EP Global Configs',
                             'Save data to CSV']    
 
     while True:
@@ -193,6 +239,31 @@ def main():
             print(f"\n{response}\n")
 
         elif main_operation == '3':
+            
+            sub_operations1_list = ['Exit',
+                                    'Display current configs',
+                                    'Enable Rogue EP configs globally',
+                                    'Disable Rogue EP configs globally',
+                                   ]    
+
+            while True:
+                for index,sub_menu_items in enumerate(sub_operations1_list,0):
+                    print(f"{index}: {sub_menu_items}")
+
+                subops1 = input('\nChoose number to select type of operation : ')
+                if subops1 == '0':
+                    break
+
+                elif subops1 == '1':
+                    config_response = get_rogue_configs(aci_cookie, credentials["apic_ip"])
+                    print(f"\nGlobal EP cofigures are {config_response['imdata'][0]['epControlP']['attributes']['adminSt']} now\n")
+                elif subops1 == '2':
+                    configureRogueEpSetting(aci_cookie, credentials["apic_ip"],"enabled")
+
+                elif subops1 == '3':
+                    configureRogueEpSetting(aci_cookie, credentials["apic_ip"],"disabled")
+
+        elif main_operation == '4':
             save_to_csv(get_data)
 if __name__ == '__main__':
     main()
