@@ -8,6 +8,34 @@ from datetime import datetime
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
 
 
+def clearRogueEp(aci_cookie, apic_ip,nodeId):
+    """ 
+    Fetches EP details using API call
+
+    Parameters:
+
+    aci_cookie (dict): Session dictionary
+    apic_ip (string): APIC controller ip address
+    mac_address (string): (Optional) default is None. It searches specific mac-address
+
+    Returns:
+    dict: API response in JSON
+
+    """
+
+    url = f'{apic_ip}/api/node/mo/topology/pod-1/node-{nodeId}/sys/action.json'
+
+    headers = {
+        'cache-control': "no-cache"
+    }
+
+    payload = {"actionLSubj":{"attributes":{"dn":f"topology/pod-1/node-{nodeId}/sys/action/lsubj-[topology/pod-1/node-{nodeId}]","oDn":f"topology/pod-1/node-{nodeId}"},"children":[{"topSystemClearEpLTask":{"attributes":{"dn":f"topology/pod-1/node-{nodeId}/sys/action/lsubj-[topology/pod-1/node-{nodeId}]/topSystemClearEpLTask","adminSt":"start"},"children":[]}}]}}
+
+    get_response = requests.post(
+        url, headers=headers, cookies=aci_cookie, verify=False,data=json.dumps(payload)).json()
+
+    return get_response
+
 def get_rogue_details(aci_cookie, apic_ip):
     ######### GET rogue instances ##############
     # GET EP details
@@ -109,12 +137,11 @@ def main():
 
     aci_cookie = get_aci_token(
         credentials["username"], credentials["password"], credentials["apic_ip"])
-    get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
     
-    get_data = get_processed_data(get_rogue_details_result)
     # pprint(get_data)
     main_operations_list = ['Exit',
                             'Print Rogue EP details on screen',
+                            'Clear Rogue EP from Leafs',
                             'Save data to CSV']    
 
     while True:
@@ -127,6 +154,9 @@ def main():
             break
         
         elif main_operation == '1':
+            get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
+    
+            get_data = get_processed_data(get_rogue_details_result)
             sub_operations1_list = ['Exit',
                                     'All results',
                                     'Filter by mac address',
@@ -157,8 +187,12 @@ def main():
                     filter_type2='creation_time'
                     get_filtered_data_func(filter_value1,filter_type1,get_data,filter_value2,filter_type2) 
 
-                        
         elif main_operation == '2':
+            nodeId = input("Enter Node ID to clear Rogue EP : ")
+            response = clearRogueEp(aci_cookie,  credentials["apic_ip"],nodeId)
+            print(f"\n{response}\n")
+
+        elif main_operation == '3':
             save_to_csv(get_data)
 if __name__ == '__main__':
     main()

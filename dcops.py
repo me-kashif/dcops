@@ -2,6 +2,7 @@
 
 import datetime
 
+from create_tenant  import main as tr
 from get_ep_details import main as ep
 from get_fault_details import main as fd
 from get_faults_history import main as fh
@@ -22,7 +23,8 @@ def main():
         print('2 : Faults related')
         print('3 : Events related')
         print('4 : Inventory related')
-        print('5 : Rogue EP related')        
+        print('5 : Rogue EP related')      
+        print('6 : Tenants related')    
         print('0 : Exit')
         main_operation = input('\nChoose number to select type of operation : ')
 
@@ -96,16 +98,10 @@ def main():
         
         if main_operation == '5':
 
-            print('1 : Get Rogue EPs')
-            
-            print('0 : Exit')
+            re()
+        
+        if main_operation == '6':
 
-            rogue_ops = input('\nChoose number to select type of operation : ')
-
-            if rogue_ops == '0':
-                break
-            
-            if rogue_ops == '1':
-                re()
+            tr()
 if __name__ == '__main__':
     main()

@@ -1,0 +1,114 @@
+name,desc,lastModTime,DN,UID
+terraform-tenant,This tenant is created by terraform,2021-01-08T05:55:02.188+00:00,uni/tn-terraform-tenant,15374
+INITIALS_Toolkit_tenant,,2021-01-08T03:45:18.579+00:00,uni/tn-INITIALS_Toolkit_tenant,15374
+TN_prod,,2021-01-07T23:45:54.316+00:00,uni/tn-TN_prod,15374
+TN-Mr-PotatoHead,Tenant Mr PotatoHead Created Using Ansible,2021-01-07T22:45:29.516+00:00,uni/tn-TN-Mr-PotatoHead,15374
+GT-Tenant,,2021-01-07T21:29:16.671+00:00,uni/tn-GT-Tenant,15374
+tenant_kit,,2021-01-07T21:13:03.300+00:00,uni/tn-tenant_kit,15374
+Cobra_Tenant,,2021-01-07T19:25:34.646+00:00,uni/tn-Cobra_Tenant,15374
+LM-1972,,2021-01-07T17:56:29.570+00:00,uni/tn-LM-1972,15374
+02-PIZZA-BOX,Tenant Created Using Ansible 2.10,2021-01-07T17:54:36.674+00:00,uni/tn-02-PIZZA-BOX,15374
+UTMCK,,2021-01-07T17:34:59.898+00:00,uni/tn-UTMCK,15374
+JL_BM,,2021-01-07T16:14:52.449+00:00,uni/tn-JL_BM,15374
+ed_1998,Tenant Created Using Ansible,2021-01-07T15:21:31.194+00:00,uni/tn-ed_1998,15374
+fj_TN,,2021-01-07T14:47:55.554+00:00,uni/tn-fj_TN,15374
+GCTenant01,,2021-01-07T14:47:54.176+00:00,uni/tn-GCTenant01,15374
+TN-IAI,,2021-01-07T14:47:57.311+00:00,uni/tn-TN-IAI,15374
+L,,2021-01-07T14:47:54.480+00:00,uni/tn-L,15374
+TN_VINO,,2021-01-07T14:47:56.470+00:00,uni/tn-TN_VINO,15374
+Tenant2,,2021-01-07T14:47:55.698+00:00,uni/tn-Tenant2,15374
+ABC,ABC Tenant configured by Ansible,2021-01-07T14:37:53.195+00:00,uni/tn-ABC,15374
+GCTenant02,Created with Python API by GetCon.,2021-01-07T14:30:08.466+00:00,uni/tn-GCTenant02,15374
+WbxDevNet_Tenant,,2021-01-07T08:16:24.644+00:00,uni/tn-WbxDevNet_Tenant,15374
+LRtest,,2021-01-07T06:49:43.117+00:00,uni/tn-LRtest,15374
+INITIALS_Example_Tenant,,2021-01-07T06:41:46.000+00:00,uni/tn-INITIALS_Example_Tenant,15374
+tutorial,,2021-01-07T05:58:54.860+00:00,uni/tn-tutorial,15374
+12345,,2021-01-07T05:27:36.220+00:00,uni/tn-12345,15374
+1234,,2021-01-07T05:27:22.762+00:00,uni/tn-1234,15374
+123,,2021-01-07T05:25:30.762+00:00,uni/tn-123,15374
+TENANT_ABC,,2021-01-07T05:16:04.180+00:00,uni/tn-TENANT_ABC,15374
+Rush_Tenant,,2021-01-07T05:04:29.565+00:00,uni/tn-Rush_Tenant,15374
+Mico-segmentation,,2021-01-07T01:52:44.875+00:00,uni/tn-Mico-segmentation,15374
+Cobra_Tenant_jialee,,2021-01-06T21:43:11.601+00:00,uni/tn-Cobra_Tenant_jialee,15374
+Demo_Video_tenant_jialee,,2021-01-06T21:31:11.905+00:00,uni/tn-Demo_Video_tenant_jialee,15374
+T01,,2021-01-06T19:15:28.096+00:00,uni/tn-T01,15374
+2020-tn_dsp,TN Crated by Ansible.,2021-01-06T18:44:40.111+00:00,uni/tn-2020-tn_dsp,15374
+My_test,,2021-01-06T17:27:05.387+00:00,uni/tn-My_test,15374
+Neil,,2021-01-06T16:22:07.910+00:00,uni/tn-Neil,15374
+Jacob,,2021-01-06T16:13:01.199+00:00,uni/tn-Jacob,15374
+API_Test,,2021-01-06T15:53:28.482+00:00,uni/tn-API_Test,15374
+rttfghdfhfgdh,,2021-01-06T15:39:45.601+00:00,uni/tn-rttfghdfhfgdh,15374
+99_Customer01,Customer01,2021-01-06T15:25:33.471+00:00,uni/tn-99_Customer01,15374
+gsx,,2021-01-06T09:28:46.293+00:00,uni/tn-gsx,15374
+tDr1-cr,tDr1-cr,2021-01-06T09:21:38.146+00:00,uni/tn-tDr1-cr,15374
+DR1-CR,,2021-01-06T08:52:47.835+00:00,uni/tn-DR1-CR,15374
+Power_up,,2021-01-06T07:58:45.599+00:00,uni/tn-Power_up,15374
+TNT02_CGN,,2021-01-06T05:55:34.893+00:00,uni/tn-TNT02_CGN,15374
+TN-CoreSvc,,2021-01-06T03:09:35.906+00:00,uni/tn-TN-CoreSvc,15374
+LAMIN,CREATED BY ANSIBLE,2021-01-05T19:30:05.828+00:00,uni/tn-LAMIN,15374
+Ado_Tenant,,2021-01-05T16:38:22.296+00:00,uni/tn-Ado_Tenant,15374
+Test,,2021-01-05T16:32:02.500+00:00,uni/tn-Test,15374
+Cisco123,,2021-01-05T15:30:54.248+00:00,uni/tn-Cisco123,15374
+UNES,,2021-01-05T15:26:12.504+00:00,uni/tn-UNES,15374
+T001,,2021-01-05T14:35:30.556+00:00,uni/tn-T001,15374
+jk3,created by def,2021-01-05T13:36:01.240+00:00,uni/tn-jk3,15374
+ansible_test,,2021-01-05T12:27:27.322+00:00,uni/tn-ansible_test,15374
+PNF_Tenant,,2021-01-05T10:43:59.089+00:00,uni/tn-PNF_Tenant,15374
+APM,,2021-01-05T04:41:17.240+00:00,uni/tn-APM,15374
+A21-DC01,,2021-01-05T04:29:08.166+00:00,uni/tn-A21-DC01,15374
+ACME-LAB,,2021-01-05T01:55:04.696+00:00,uni/tn-ACME-LAB,15374
+test_tenant,,2021-01-05T01:49:34.298+00:00,uni/tn-test_tenant,15374
+testing_terraform_tenant,This tenant is created by terraform,2021-01-04T22:29:36.657+00:00,uni/tn-testing_terraform_tenant,15374
+ACI-DC-01,,2021-01-04T21:38:14.562+00:00,uni/tn-ACI-DC-01,15374
+TN_CLARO_IT,,2021-01-04T18:54:39.987+00:00,uni/tn-TN_CLARO_IT,15374
+newtenant,,2021-01-04T17:48:59.941+00:00,uni/tn-newtenant,15374
+new_Ten,,2021-01-04T17:47:03.342+00:00,uni/tn-new_Ten,15374
+JBUBBA_Toolkit_Tenant,,2021-01-04T17:44:35.012+00:00,uni/tn-JBUBBA_Toolkit_Tenant,15374
+JB_Toolkit_Tenant,,2021-01-04T17:43:40.061+00:00,uni/tn-JB_Toolkit_Tenant,15374
+L2,,2021-01-04T17:20:30.270+00:00,uni/tn-L2,15374
+test51,,2021-01-04T17:16:48.313+00:00,uni/tn-test51,15374
+mgmt1,,2021-01-04T17:12:03.123+00:00,uni/tn-mgmt1,15374
+DMZ,,2021-01-04T17:11:42.282+00:00,uni/tn-DMZ,15374
+MWM,,2021-01-04T16:46:09.144+00:00,uni/tn-MWM,15374
+cl_za2000,Tenant Created Using Ansible,2021-01-04T16:38:56.322+00:00,uni/tn-cl_za2000,15374
+gggg,,2021-01-04T16:13:19.504+00:00,uni/tn-gggg,15374
+TN-SN,,2021-01-04T15:03:26.740+00:00,uni/tn-TN-SN,15374
+A-mm-terraform_tenant,This tenant is created by terraform - MM,2021-01-04T14:03:55.298+00:00,uni/tn-A-mm-terraform_tenant,15374
+11_HMS,This tenant is created by terraform,2021-01-04T13:26:38.639+00:00,uni/tn-11_HMS,15374
+Pironet,,2021-01-04T10:00:37.784+00:00,uni/tn-Pironet,15374
+BRUCE,description,2021-01-04T09:57:14.664+00:00,uni/tn-BRUCE,15374
+BRUCE_test,,2021-01-04T09:41:14.365+00:00,uni/tn-BRUCE_test,15374
+Tenant1_maha,,2021-01-04T08:24:19.561+00:00,uni/tn-Tenant1_maha,15374
+web-tentant,,2021-01-04T07:50:58.213+00:00,uni/tn-web-tentant,15374
+rcp12,,2021-01-04T07:27:40.926+00:00,uni/tn-rcp12,15374
+rcp10,,2021-01-04T06:45:45.917+00:00,uni/tn-rcp10,15374
+Village,,2021-01-03T21:42:58.160+00:00,uni/tn-Village,15374
+UNIONC,,2021-01-03T21:41:35.988+00:00,uni/tn-UNIONC,15374
+gb_cm1,Tenant Created Using Ansible,2021-01-03T21:15:50.935+00:00,uni/tn-gb_cm1,15374
+rcp7,,2021-01-03T19:48:28.015+00:00,uni/tn-rcp7,15374
+CHANGEME,Tenant Created Using Ansible,2021-01-03T19:47:42.924+00:00,uni/tn-CHANGEME,15374
+rcp5,,2021-01-03T19:31:11.128+00:00,uni/tn-rcp5,15374
+rcp6,,2021-01-03T19:31:09.150+00:00,uni/tn-rcp6,15374
+rcp4,,2021-01-03T18:38:43.693+00:00,uni/tn-rcp4,15374
+cl_2000,Tenant Created Using Ansible,2021-01-03T12:43:43.970+00:00,uni/tn-cl_2000,15374
+GL_Example_Tenant,,2021-01-02T15:49:46.327+00:00,uni/tn-GL_Example_Tenant,15374
+Karabacak,,2021-01-02T12:38:48.020+00:00,uni/tn-Karabacak,15374
+TN_CX,,2021-01-02T12:12:22.007+00:00,uni/tn-TN_CX,15374
+BMH-TENTANT,,2021-01-02T11:13:21.805+00:00,uni/tn-BMH-TENTANT,15374
+Aarav-Ten,,2021-01-02T06:47:14.269+00:00,uni/tn-Aarav-Ten,15374
+VM-LAB,VM LAB Env,2021-01-02T01:44:37.778+00:00,uni/tn-VM-LAB,15374
+ten-bf01,,2021-01-01T23:28:37.736+00:00,uni/tn-ten-bf01,15374
+Development,,2021-01-01T22:37:02.730+00:00,uni/tn-Development,15374
+CUST2,,2021-01-01T21:16:18.608+00:00,uni/tn-CUST2,15374
+cust1,,2021-01-01T21:06:04.165+00:00,uni/tn-cust1,15374
+Universal,,2021-01-01T20:48:14.223+00:00,uni/tn-Universal,15374
+Shore-Test-1,,2021-01-01T20:25:36.838+00:00,uni/tn-Shore-Test-1,15374
+ali,,2021-01-01T19:43:38.197+00:00,uni/tn-ali,15374
+Customer_03,,2021-01-01T15:50:51.327+00:00,uni/tn-Customer_03,15374
+Customer_02,,2021-01-01T15:50:50.068+00:00,uni/tn-Customer_02,15374
+Customer_01,,2021-01-01T15:50:48.789+00:00,uni/tn-Customer_01,15374
+SnV,,2021-01-01T08:21:35.186+00:00,uni/tn-SnV,15374
+Heroes,,2021-01-01T08:21:34.793+00:00,uni/tn-Heroes,15374
+infra,,2021-01-01T08:18:35.454+00:00,uni/tn-infra,0
+mgmt,,2021-01-01T08:18:35.850+00:00,uni/tn-mgmt,0
+common,,2021-01-01T08:18:30.663+00:00,uni/tn-common,0
