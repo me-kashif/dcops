@@ -196,8 +196,8 @@ def main():
                             'Print Rogue EP details on screen',
                             'Clear Rogue EP from Leafs',
                             'Rogue EP Global Configs',
-                            'Save data to CSV',
-                            'Automatically detect and clear Rogue EP']    
+                            'Automatically detect and clear Rogue EP',
+                            'Save data to CSV']    
 
     while True:
         
@@ -276,18 +276,14 @@ def main():
                 elif subops1 == '3':
                     configureRogueEpSetting(aci_cookie, credentials["apic_ip"],"disabled")
 
+              
         elif main_operation == '4':
-            get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
-            get_data = get_processed_data(get_rogue_details_result)
-            save_to_csv(get_data)
-        
-        elif main_operation == '5':
             get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
             get_data = get_processed_data(get_rogue_details_result)
             sub_operations1_list = ['Exit',
                                     'Clear REPs from all affected nodes',
                                     'Monitor & clear specific REP from leafs after 10 seconds interval or ctrl-c to exit',
-                                    'clear manually specific REP from all affected nodes',
+                                    'Clear manually specific REP from all affected nodes',
                                    ]    
 
             while True:
@@ -301,30 +297,41 @@ def main():
                 elif subops1 == '1':
                     for each in get_data:
                         print(each['node_id'] , each['mac'] )
+                        # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
+                        # print(f"\n{response}\n")
                     print("\n")
 
                 elif subops1 == '2':
-                    while True:  # making a loop
+                                          
+                    while True:
+                        try:
+                            get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
+                            get_data = get_processed_data(get_rogue_details_result)
                         
-                        while True:
-                            try:
-                                get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
-                                get_data = get_processed_data(get_rogue_details_result)
-                            
-                                for each in get_data:
-                                    if ('aa:aa:aa:aa:aa:aa' in each['mac'] or  'bb:bb:bb:bb:bb:bb' in each['mac']): 
-                                        print(each['node_id'] , each['mac'] )
-                                print("\n")
-                                time.sleep(10)   # check every after 10 seconds
-                            except KeyboardInterrupt:
-                                print("closed live monitoring gracefully")
-                                sys.exit()
+                            for each in get_data:
+                                if ('bb:bb:bb:bb:bb:bb' in each['mac'] or  'aa:aa:aa:aa:aa:aa' in each['mac']): 
+                                    print(each['node_id'] , each['mac'] )
+                                    # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
+                                    # print(f"\n{response}\n")
+                            print("\n")
+                            time.sleep(10)   # check every after 10 seconds
+                        except KeyboardInterrupt:
+                            print("closed live monitoring gracefully")
+                            sys.exit()
                             
                 elif subops1 == '3':
                     for each in get_data:
-                        if ('aa:aa:aa:aa:aa:aa' in each['mac'] or  'bb:bb:bb:bb:bb:bb' in each['mac']): 
+                        if ('bb:bb:bb:bb:bb:bb' in each['mac'] or  'aa:aa:aa:aa:aa:aa' in each['mac']):
+
                             print(each['node_id'] , each['mac'] )
+                            # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
+                            # print(f"\n{response}\n")
                     print("\n")
+
+        elif main_operation == '5':
+            get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
+            get_data = get_processed_data(get_rogue_details_result)
+            save_to_csv(get_data)
 
 if __name__ == '__main__':
     main()
