@@ -9,7 +9,8 @@ import time
 import sys
 
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
-
+current_time = datetime.now()
+# only_current_time = current_time.now.strftime("%H:%M:%S")
 
 def get_rogue_configs(aci_cookie, apic_ip):
     ######### GET rogue instances ##############
@@ -297,35 +298,43 @@ def main():
                 elif subops1 == '1':
                     for each in get_data:
                         print(each['node_id'] , each['mac'] )
-                        # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
-                        # print(f"\n{response}\n")
+                        response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['node_id'])
+                        print(f"\n{response}\n")
                     print("\n")
 
                 elif subops1 == '2':
                                           
                     while True:
                         try:
-                            get_rogue_details_result = get_rogue_details(aci_cookie, credentials["apic_ip"])
+                            aci_cookie1 = get_aci_token(credentials["username"], credentials["password"], credentials["apic_ip"])
+                            get_rogue_details_result = get_rogue_details(aci_cookie1, credentials["apic_ip"])
                             get_data = get_processed_data(get_rogue_details_result)
-                        
+                            print(f"{datetime.now()} ===> Checking if FW MAC addresss is REP")
                             for each in get_data:
-                                if ('bb:bb:bb:bb:bb:bb' in each['mac'] or  'aa:aa:aa:aa:aa:aa' in each['mac']): 
-                                    print(each['node_id'] , each['mac'] )
-                                    # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
-                                    # print(f"\n{response}\n")
-                            print("\n")
-                            time.sleep(10)   # check every after 10 seconds
+                                if ('aa:bb:bb:bb:bb:bb' in each['mac'] or  'aa:bb:bb:bb:bb:bb' in each['mac']): 
+                                    response = f"{datetime.now()} {each['node_id']} , {each['mac']} detected\n"
+                                    print(response)
+                                    response = clearRogueEp(aci_cookie1,  credentials["apic_ip"],each['node_id'])
+                                    print(f"\n{response}\n")
+                                    
+                                    result = f"{datetime.now()} Cleared REP {each['mac']} \n"
+                                    print(result)
+                                    with open('rep_logs.txt','a') as file:
+                                        file.write(response)
+                                        file.write(result)
+                            
+                            time.sleep(60)   # check every after 60 seconds
                         except KeyboardInterrupt:
                             print("closed live monitoring gracefully")
                             sys.exit()
                             
                 elif subops1 == '3':
                     for each in get_data:
-                        if ('bb:bb:bb:bb:bb:bb' in each['mac'] or  'aa:aa:aa:aa:aa:aa' in each['mac']):
+                        if ('aa:bb:bb:bb:bb:bb' in each['mac'] or  'aa:bb:bb:bb:bb:bb' in each['mac']): 
 
                             print(each['node_id'] , each['mac'] )
-                            # response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['nodeId'])
-                            # print(f"\n{response}\n")
+                            response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['node_id'])
+                            print(f"\n{response}\n")
                     print("\n")
 
         elif main_operation == '5':

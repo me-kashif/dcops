@@ -219,6 +219,7 @@ def main():
                     tName = input("Tenant name : ")
                     tDescr = input("Enter Tenant Description : ")
                     response = create_tenant(aci_cookie, credentials["apic_ip"],tName,tDescr)
+                    print(response)
                     if response:
                         print("\n !!!       Tenant created successfully     !!!!!\n")
 
