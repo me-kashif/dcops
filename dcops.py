@@ -9,6 +9,7 @@ from get_faults_history import main as fh
 from get_events_history import main as eh
 from get_sfp_details import main as sd
 from get_rogue_eps import main as re
+from get_ep_static_bind import main as gesb
 
 def main():
     
@@ -31,8 +32,21 @@ def main():
         if main_operation == '0':
             break
         if main_operation == '1':
+            print('1 : Current Endpoints')
+            print('2 : EPG static bindings')
+            print('0 : Exit')
+
+            ep_ops = input('\nChoose number to select type of operation : ')
+
+            if ep_ops == '0':
+                continue
+
+            if ep_ops == '1':
+                ep()
+
+            if ep_ops == '2':
+                gesb()
             
-            ep()
 
         if main_operation == '2':
             
@@ -43,7 +57,7 @@ def main():
             faults_ops = input('\nChoose number to select type of operation : ')
 
             if faults_ops == '0':
-                break
+                continue
 
             if faults_ops == '1':
                 fd()
@@ -69,7 +83,7 @@ def main():
             events_ops = input('\nChoose number to select type of operation : ')
 
             if events_ops == '0':
-                break
+                continue
 
             if events_ops == '1':
                 print("\n")
@@ -91,7 +105,7 @@ def main():
             inventory_ops = input('\nChoose number to select type of operation : ')
 
             if inventory_ops == '0':
-                break
+                continue
             
             if inventory_ops == '1':
                 sd()
