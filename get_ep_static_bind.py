@@ -170,7 +170,7 @@ def main():
     get_data = get_processed_data(get_ep_details_result)
     
     main_operations_list = ['Exit',
-                            'Print Endpoint details on screen',
+                            'Print EPG binding details on screen',
                             'Save data to CSV']    
 
     while True:

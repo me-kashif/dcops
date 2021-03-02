@@ -10,6 +10,9 @@ import sys
 
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
 current_time = datetime.now()
+FW_MAC1 = 'aa:aa:aa:aa:aa:aa'
+FW_MAC2 = 'bb:bb:bb:bb:bb:bb'
+
 # only_current_time = current_time.now.strftime("%H:%M:%S")
 
 def get_rogue_configs(aci_cookie, apic_ip):
@@ -311,7 +314,7 @@ def main():
                             get_data = get_processed_data(get_rogue_details_result)
                             print(f"{datetime.now()} ===> Checking if FW MAC addresss is REP")
                             for each in get_data:
-                                if ('aa:bb:bb:bb:bb:bb' in each['mac'] or  'aa:bb:bb:bb:bb:bb' in each['mac']): 
+                                if (FW_MAC1 in each['mac'] or  FW_MAC2 in each['mac']): 
                                     response = f"{datetime.now()} {each['node_id']} , {each['mac']} detected\n"
                                     print(response)
                                     response = clearRogueEp(aci_cookie1,  credentials["apic_ip"],each['node_id'])
@@ -319,10 +322,11 @@ def main():
                                     
                                     result = f"{datetime.now()} Cleared REP {each['mac']} \n"
                                     print(result)
+
                                     with open('rep_logs.txt','a') as file:
-                                        file.write(response)
-                                        file.write(result)
-                            
+                                            file.write(str(response))
+                                            file.write(result)
+                                   
                             time.sleep(60)   # check every after 60 seconds
                         except KeyboardInterrupt:
                             print("closed live monitoring gracefully")
@@ -330,7 +334,7 @@ def main():
                             
                 elif subops1 == '3':
                     for each in get_data:
-                        if ('aa:bb:bb:bb:bb:bb' in each['mac'] or  'aa:bb:bb:bb:bb:bb' in each['mac']): 
+                        if (FW_MAC1 in each['mac'] or  FW_MAC2 in each['mac']): 
 
                             print(each['node_id'] , each['mac'] )
                             response = clearRogueEp(aci_cookie,  credentials["apic_ip"],each['node_id'])
