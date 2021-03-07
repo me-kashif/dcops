@@ -13,6 +13,7 @@ current_time = datetime.now()
 FW_MAC1 = 'aa:aa:aa:aa:aa:aa'
 FW_MAC2 = 'bb:bb:bb:bb:bb:bb'
 
+
 # only_current_time = current_time.now.strftime("%H:%M:%S")
 
 def get_rogue_configs(aci_cookie, apic_ip):
@@ -312,7 +313,7 @@ def main():
                             aci_cookie1 = get_aci_token(credentials["username"], credentials["password"], credentials["apic_ip"])
                             get_rogue_details_result = get_rogue_details(aci_cookie1, credentials["apic_ip"])
                             get_data = get_processed_data(get_rogue_details_result)
-                            print(f"{datetime.now()} ===> Checking if FW MAC addresss is REP")
+                            print(f"{datetime.now()} ===> Checking if FW MAC {FW_MAC1} and {FW_MAC2} addresss are REP")
                             for each in get_data:
                                 if (FW_MAC1 in each['mac'] or  FW_MAC2 in each['mac']): 
                                     response = f"{datetime.now()} {each['node_id']} , {each['mac']} detected\n"
@@ -330,7 +331,7 @@ def main():
                             time.sleep(60)   # check every after 60 seconds
                         except KeyboardInterrupt:
                             print("closed live monitoring gracefully")
-                            sys.exit()
+                            break
                             
                 elif subops1 == '3':
                     for each in get_data:

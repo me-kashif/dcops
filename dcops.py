@@ -10,6 +10,7 @@ from get_events_history import main as eh
 from get_sfp_details import main as sd
 from get_rogue_eps import main as re
 from get_ep_static_bind import main as gesb
+from get_audit_details import main as gad
 
 def main():
     
@@ -25,7 +26,8 @@ def main():
         print('3 : Events related')
         print('4 : Inventory related')
         print('5 : Rogue EP related')      
-        print('6 : Tenants related')    
+        print('6 : Tenants related')
+        print('7 : Audit related')    
         print('0 : Exit')
         main_operation = input('\nChoose number to select type of operation : ')
 
@@ -117,5 +119,28 @@ def main():
         if main_operation == '6':
 
             tr()
+
+        if main_operation == '7':
+
+            print('1 : Audit ')
+            
+            print('0 : Exit')
+
+            events_ops = input('\nChoose number to select type of operation : ')
+
+            if events_ops == '0':
+                continue
+
+            if events_ops == '1':
+                # print("\n")
+                # regex = datetime.datetime.strptime
+                # try:
+                #     req_date = input("Enter required date to check faults history in this format yyyy-mm-dd : ")
+                #     assert regex(req_date,'%Y-%m-%d')
+                # except:
+                #     print("Incorrect date format , try again")
+                #     continue
+            
+                gad()
 if __name__ == '__main__':
     main()
