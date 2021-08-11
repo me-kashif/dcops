@@ -11,6 +11,7 @@ from get_sfp_details import main as sd
 from get_rogue_eps import main as re
 from get_ep_static_bind import main as gesb
 from get_audit_details import main as gad
+from get_crc_errors import main as ce
 
 def main():
     
@@ -27,7 +28,7 @@ def main():
         print('4 : Inventory related')
         print('5 : Rogue EP related')      
         print('6 : Tenants related')
-        print('7 : Audit related')    
+        print('7 : Audit related')
         print('0 : Exit')
         main_operation = input('\nChoose number to select type of operation : ')
 
@@ -54,6 +55,7 @@ def main():
             
             print('1 : Current Faults')
             print('2 : Faults History')
+            print('3 : CRC Errors')
             print('0 : Exit')
 
             faults_ops = input('\nChoose number to select type of operation : ')
@@ -75,6 +77,9 @@ def main():
                     continue
             
                 fh(req_date)
+            if faults_ops == '3':
+                         
+                ce()
 
         if main_operation == '3':
 
